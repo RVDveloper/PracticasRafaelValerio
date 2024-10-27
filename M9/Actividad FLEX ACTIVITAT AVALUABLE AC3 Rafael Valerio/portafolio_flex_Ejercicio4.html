@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>Portafolio Flex Ejercicio 4</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #0F0F0F;
+        }
+        
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            position: relative;
+        }
+        
+        .container-header {
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center; 
+        }
+        
+        h1 {
+            margin-left: 20px;
+        }
+        
+        nav {
+            margin-right: 20px;
+        }
+        
+        nav ul {
+            list-style: none;
+            display: flex; 
+        }
+        
+        nav ul li {
+            margin: 0 15px;
+        }
+        
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+        }
+        
+        nav ul li:hover {
+            background-color: #87ceeb; 
+            transform: scale(1.1); 
+            box-shadow: 0 4px 8px rgba(135, 206, 235, 0.3); 
+            border-radius: 5px;
+        }
+        
+        .inicio {
+            background-color: #0F0F0F;
+            color: #fff;
+            padding: 20px;
+            text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 5px #0073e6, 0 0 10px #0073e6, 0 0 20px #0073e6, 0 0 30px #0073e6, 0 0 40px #0073e6;
+            text-align: center;
+        }
+        
+        .inicio h2 {
+            margin-bottom: 15px;
+        }
+        
+        .proyectos {
+            margin-right: 5px;
+            margin-left: 5px;
+            background-color: #0F0F0F;
+            padding: 30px;
+            text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 5px #0073e6, 0 0 10px #0073e6, 0 0 20px #0073e6, 0 0 30px #0073e6, 0 0 40px #0073e6;
+            border: 1px solid #add8e6;
+            box-shadow: 0 0 10px #add8e6, 0 0 20px #add8e6, 0 0 30px #add8e6, 0 0 40px #add8e6;
+            border-radius: 3px;
+        }
+        
+        .gallery {
+            display: flex; 
+            flex-wrap: wrap; 
+            justify-content: space-between;
+            gap: 20px; 
+        }
+        
+        .project {
+            color: #fff;
+            width: calc(30% - 20px);
+            margin-bottom: 20px; 
+            display: flex; 
+            flex-direction: column; 
+            align-items: center;
+            
+
+        }
+        
+        .project img {
+            margin-top: 20px;
+            width: 100%; 
+            max-width: 400px; 
+            height: 300px; 
+            border-radius: 5px;
+            border: 1px solid #add8e6;
+            box-shadow: 0 0 5px #add8e6, 0 0 10px #add8e6, 0 0 20px #add8e6, 0 0 30px #add8e6;
+        }
+        .project p {
+            margin-top: 10px;
+        }
+
+        h2 {
+            color: #fff;
+        }
+        
+        .habilidades {
+            background-color: #0F0F0F;
+            padding: 20px;
+            text-align: center;
+            text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 5px #0073e6, 0 0 10px #0073e6, 0 0 20px #0073e6, 0 0 30px #0073e6, 0 0 40px #0073e6;
+            border-right: 1px solid #add8e6;
+            border-left: 1px solid #add8e6;  
+            border-top: 1px solid #add8e6;  
+            border-bottom: none; 
+            box-shadow: 0 0 10px #add8e6, 0 0 20px #add8e6, 0 0 30px #add8e6, 0 0 40px #add8e6;
+        }
+        
+        .skills-list {
+            list-style: none;
+            padding: 0;
+            text-align: center; 
+            display: flex; 
+            flex-wrap: wrap; 
+            justify-content: center; 
+        }
+        
+        .skills-list li {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            margin: 10px;
+            border-radius: 5px;
+            text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 5px #0073e6, 0 0 10px #0073e6, 0 0 20px #0073e6, 0 0 30px #0073e6, 0 0 40px #0073e6;
+            transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+            text-align: center; 
+            display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+        }
+        
+        .skills-list li img {
+            width: 40px; 
+            margin-bottom: 5px; 
+        }
+        
+        .skills-list li:hover {
+            background-color: #87ceeb; 
+            transform: scale(1.1);
+            box-shadow: 0 4px 8px rgba(135, 206, 235, 0.3); 
+        }
+        
+        .contacto {
+            padding: 20px;
+            background-color: #0F0F0F;
+            text-align: center;
+            color: #fff;
+            text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 5px #0073e6, 0 0 10px #0073e6, 0 0 20px #0073e6, 0 0 30px #0073e6, 0 0 40px #0073e6;
+            display: flex; 
+            flex-direction: column;
+            align-items: center; 
+        }
+        
+        @media (max-width: 768px) {
+            nav ul li {
+                display: block;
+                text-align: center;
+                margin: 5px 0;
+            }
+        
+            .project {
+                width: 100%; 
+                margin-right: 0;
+            }
+
+            .skills-list {
+                flex-direction: column; 
+                align-items: center; 
+            }
+        }
+        footer {
+            background-color: #333;
+            padding: 20px 0;
+            text-align: center;
+            color: #fff;
+        }
+        
+        p {
+            text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 5px #0073e6, 0 0 10px #0073e6, 0 0 20px #0073e6, 0 0 30px #0073e6, 0 0 40px #0073e6;
+        }
+        
+        footer h4 {
+            margin: 0;
+            font-weight: normal;
+            text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 5px #0073e6, 0 0 10px #0073e6, 0 0 20px #0073e6, 0 0 30px #0073e6, 0 0 40px #0073e6;
+        }
+        
+        .footer-buttons {
+            display: flex; 
+            justify-content: center; 
+            margin-top: 20px; 
+        }
+        
+        .footer .button {
+            display: flex; 
+            align-items: center; 
+            padding: 10px 30px;
+            margin: 10px; 
+            border-radius: 30px;
+            font-size: 16px;
+            font-weight: bold;
+            text-decoration: none;
+            color: #fff;
+            transition: background-color 0.3s, transform 0.3s;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .footer .button:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 30px;
+            background: linear-gradient(45deg, #6a11cb, #2575fc);
+            z-index: -1;
+            transition: opacity 0.3s, transform 0.3s;
+            opacity: 0;
+            transform: scale(0.95);
+        }
+        
+        .footer .button:hover:before {
+            opacity: 1;
+            transform: scale(1);
+        }
+        
+        .footer .button:hover {
+            background-color: transparent;
+            transform: translateY(-5px);
+        }
+        
+        .github {
+            background-color: #828181;
+        }
+        
+        .email {
+            background-color: #e63946;
+        }
+        
+        .linkedin {
+            background-color: #0077b5;
+        }
+        
+        .section.contacto {
+            background-color:#0F0F0F; 
+            padding: 20px;
+            border-radius: 1px; 
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+            border-right: 1px solid #add8e6;
+            border-left: 1px solid #add8e6;  
+            border-top: none;  
+            border-bottom: 1px solid #add8e6; 
+            min-width: 90%;
+            
+        }
+        
+        .contact-form {
+            display: flex;
+            flex-direction: column;
+            min-width: 90%;
+
+        }
+        
+        label {
+            color: #fff; 
+            margin: 10px 0 5px; 
+        }
+        
+        .input-field {
+            padding: 10px;
+            border: 2px solid #add8e6; 
+            border-radius: 5px; 
+            margin-bottom: 15px; 
+            background-color: #2c3e50; 
+            color: #fff;
+            transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out; 
+        }
+        
+        .input-field:focus {
+            border-color: #87ceeb; 
+            box-shadow: 0 0 5px rgba(135, 206, 235, 0.5); 
+            outline: none; 
+        }
+        
+        .btn {
+            padding: 10px 15px;
+            background-color: #0F0F0F; 
+            color: #fff; 
+            border: 2px solid #add8e6; 
+            border-radius: 5px; 
+            cursor: pointer;
+            transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out; 
+        }
+        
+        .btn:hover {
+            background-color: #87ceeb; 
+            box-shadow: 0 4px 8px rgba(135, 206, 235, 0.3); 
+        }
+
+        .projects{
+            margin-left: 45%;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container-header">
+            <h1>Portafolio</h1>
+            <nav>
+                <ul>
+                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="#proyectos">Proyectos</a></li>
+                    <li><a href="#habilidades">Habilidades</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="inicio" id="inicio">
+        <h2>Bienvenido a mi portafolio</h2>
+        <p>"Soy un estudiante de segundo curso de Desarrollo de Aplicaciones Web con experiencia en desarrollo tanto frontend como backend. Explora mis proyectos y habilidades para conocernos mejor."</p>
+    </section>
+
+    <section class="proyectos" id="proyectos">
+        <h2>PROYECTOS</h2>
+        <div class="gallery">
+            <div class="project">
+                <h3>AnafaelBeats MVC:</h3>
+                <img src="https://private-user-images.githubusercontent.com/147142574/333664224-9860f59b-04d3-4092-ba07-2e19c187a475.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk5ODQ1NzQsIm5iZiI6MTcyOTk4NDI3NCwicGF0aCI6Ii8xNDcxNDI1NzQvMzMzNjY0MjI0LTk4NjBmNTliLTA0ZDMtNDA5Mi1iYTA3LTJlMTljMTg3YTQ3NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyNlQyMzExMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZWMyOTc4Njc4ODU4ZTRmMjc3MGM1OTYwNjIxNjRmYmI5MGU4MmFkM2JiNTgxZTdiMzZiMDRmZTE2NTA1MzlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GG2UBSvVreN4Er4VMt4qErWMy0RIvNhprrpqPKIF540" alt="Proyecto 1">
+                <p>Es una aplicación web desarrollada en C# utilizando el patrón de diseño Modelo-Vista-Controlador (MVC) e utilizando la comunicacion asincronica AJAX. Inspirada en servicios de streaming de música como Spotify, Anafael Beats MVC busca proporcionar una experiencia completa para la exploración, reproducción y búsqueda de música y letras de canciones Mediante el consumo de APIs </p>
+            </div>
+            <div class="project">
+                <h3>AnafaelBeats:</h3>
+                <img src="https://raw.githubusercontent.com/RVDveloper/Images/refs/heads/main/SCR-20241009-sibm.jpeg" alt="Proyecto 2">
+                <p>Este proyecto es una aplicación web de música similar a Spotify, construida utilizando Flask, MySQL, JavaScript y APIs. La aplicación permite a los usuarios explorar y reproducir música, crear listas de reproducción y obtener recomendaciones basadas en las Tendencias.</p>
+            </div>
+            <div class="project">
+                <h3>Flask ApiAnimeWeb:</h3>
+                <img src="https://raw.githubusercontent.com/RVDveloper/FlaskApiAnimeWeb/main/Preview/SCR-20240324-lzew.png" alt="Proyecto 3">
+                <p>He creado una API sencilla con Flask que permite a los usuarios ver capítulos de anime. Este proyecto representa mis primeros pasos en el desarrollo de APIs utilizando Flask, y me ha servido como experiencia de aprendizaje para comprender los fundamentos.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="habilidades" id="habilidades">
+        <h2>Habilidades</h2>
+        <ul class="skills-list">
+            <li><i class="fab fa-html5"></i> HTML</li>
+            <li><i class="fab fa-css3-alt"></i> CSS</li>
+            <li><i class="fab fa-js"></i> JavaScript</li>
+            <li><img src="https://raw.githubusercontent.com/RVDveloper/Images/refs/heads/main/Fondo%20de%20“png-transparent-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-trademark-thumbnail”%20eliminado.png" alt="C#" style="width:24px; vertical-align: middle;"><span>C#</span>
+            </li>
+            <li><i class="fab fa-python"></i> Python</li>
+            <li><i class="fas fa-database"></i> SQL</li>
+            <li><i class="fas fa-leaf"></i> MongoDB</li>
+            <li><i class="fas fa-flask"></i> Flask</li>
+            <li><i class="fab fa-bootstrap"></i> Bootstrap</li>
+            <li><i class="fas fa-project-diagram"></i> MVC</li>
+            <li><i class="fab fa-git-alt"></i> Git</li>
+        </ul>
+    </section>
+    <section id="contacto" class="section contacto">
+        <h2>Contacto</h2>
+        <form class="contact-form form_layout" action="#" method="post">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required class="input-field">
+    
+            <label for="email">Correo Electrónico:</label>
+            <input type="email" id="email" name="email" required class="input-field">
+    
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje" rows="4" required class="input-field"></textarea>
+    
+            <button type="submit" class="btn btn-social">Enviar</button>
+        </form>
+    </section>
+
+    <footer class="footer">
+        <h4>Contacto</h4>
+        <p>Para más información, Contactarme a</p>
+        <div class="footer-buttons">
+            <a href="https://github.com/RVDveloper" class="button github">GitHub</a>
+            <a href="mailto:yrvc26es@gmail.com" class="button email">Email</a>
+            <a href="https://www.linkedin.com/in/yorjes-rafael-valerio-carreño-a526832b1/?locale=en_US" class="button linkedin">LinkedIn</a>
+        </div>
+        <p>© 2024 Rafael Valerio. Todos los derechos reservados.</p>
+    </footer>
+    
+</body>
+</html>

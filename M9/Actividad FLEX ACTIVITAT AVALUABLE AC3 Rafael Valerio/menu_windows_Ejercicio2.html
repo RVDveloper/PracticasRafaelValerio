@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Windows 8 Flex Ejercicio 2</title>
+    <style>
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #222;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            background-color: rgb(20, 69, 20);
+            padding: 20px; 
+            border-radius: 8px; 
+        }
+
+        .main-container {
+            display: flex;
+            flex-direction: column;
+            width: 600px;
+            gap: 10px;
+        }
+
+        .row {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap; 
+        }
+
+        .full-width {
+            display: flex;
+            gap: 10px;
+            width: 100%;
+            justify-content: space-between;
+        }
+
+        .large-box {
+            flex: 2; 
+            display: flex;
+            flex-direction: row; 
+            gap: 10px;
+        }
+
+        .small-box {
+            flex: 1;
+            display: flex;
+            flex-direction: row; 
+            gap: 10px;
+        }
+
+        .tile {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        .large {
+            height: 100px; 
+            flex: 1; 
+        }
+
+        .small {
+            height: 100px; 
+            flex: 1; 
+        }
+
+        .medium {
+            flex: 1;
+            height: 80px;
+        }
+
+        h1 {
+            color: white; 
+            margin-bottom: 20px; 
+        }
+
+        .element1 { background-color: rgb(74, 217, 230); }
+        .element2 { background-color: rgb(98, 42, 98); }
+        .element3 { background-color: rgb(192, 81, 22); }
+        .element4 { background-color: rgb(109, 228, 237); }
+        .element5 { background-color: rgb(67, 133, 187); }
+        .element6 { background-color: rgb(61, 152, 45); }
+        .element7 { background-color: rgb(179, 73, 167); }
+        .element8 { background-color: royalblue; }
+        .element9 { background-color: rgb(156, 66, 174); }
+        .element10 { background-color: rgb(171, 24, 24); }
+        .element11 { background-color: rgb(192, 81, 22); }
+        .element12 { background: linear-gradient(to top right, 
+            #A8C3A0, 
+            #6bcf57, 
+            #6F2C91, 
+            #FF5E5E, 
+            #87CEFA  
+        ); }
+        .element13 { background-color: rgb(67, 133, 187); }
+        .element14 { background-color: rgb(61, 152, 45); }
+        .element15 { background-color: rgb(171, 24, 24); }
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <h1>Start</h1> 
+        <div class="main-container">
+            
+            <div class="row">
+                <div class="large-box">
+                    <div class="tile large element1">Mail</div>
+                    <div class="tile large element2">Calendar</div>
+                </div>
+                <div class="small-box">
+                    <div class="tile small element5">Internet Explorer</div>
+                    <div class="tile small element6">Store</div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="large-box">
+                    <div class="tile large element3">People</div>
+                    <div class="tile large element4">Photos</div>
+                </div>
+                <div class="small-box">
+                    <div class="tile small element7">Maps</div>
+                    <div class="tile small element8">Skydrive</div>
+                </div>
+            </div>
+
+            <div class="row full-width">
+                <div class="tile medium element9">Messaging</div>
+                <div class="tile medium element10">Video</div>
+                <div class="tile medium element11">Music</div>
+            </div>
+
+            <div class="row">
+                <div class="large-box">
+                    <div class="tile large element12">Desktop</div>
+                    <div class="tile large element13">Weather</div>
+                </div>
+                <div class="small-box">
+                    <div class="tile small element14">Xbox Live</div>
+                    <div class="tile small element15">Camera</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

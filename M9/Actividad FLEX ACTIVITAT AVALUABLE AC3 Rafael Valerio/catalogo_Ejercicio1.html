@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>catalogo imagenes Flex Ejercicio 1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #3b2b3a;
+            color: #fff;
+
+        }
+        
+        h1 {
+            margin-top: 20px;
+        }
+        
+        .catalog {
+            display: flex;
+            gap: 10px;
+            padding: 10px;
+            background:linear-gradient(135deg, #330000, #550022, #330033, #000000);;
+            border: 1px solid #760101;
+        }
+        
+        .catalog img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border: 1px dashed #333;
+        }
+        
+        .nowrap {
+            flex-wrap: nowrap;
+            overflow: auto;
+        }
+        
+        .wrap {
+            flex-wrap: wrap;
+            max-width: 500px;
+        }
+        
+    </style>
+</head>
+<body>
+    <h1>Catalogo imagenes</h1>
+
+    <h2>flex-wrap: nowrap;</h2>
+    <div class="catalog nowrap">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7PEj1w8Qtq6LpodYwvb1Fwwgk8Mb6mqx3Vw&s" alt="Imagen 1">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pZ6RLxJM4sXQlGAirkCGJzhqZdNJzjBa4g&s" alt="Imagen 2">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnbsPe5TsTDfdrGvjlaZdgAJI8OetZy7xWyw&s" alt="Imagen 3">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_S1y3pG9BjvbyY174EslKq9k5hWvpEDRRw&s" alt="Imagen 4">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVCXdV6_GCaYEd9vHsx6qHR7oz8V8r1tsmQ&s" alt="Imagen 5">
+    </div>
+
+    <h2>flex-wrap: wrap;</h2>
+    <div class="catalog wrap">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmXPn6wHJWKjsbSISp7R3f51tYuLn0bnluwQ&s" alt="Imagen 1">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7RENFnLjDWXOUItK89Put46VWuH0g_eGZQ&s" alt="Imagen 2">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUpPLnOeEf29hY6KL3XXTJKVzAkGDbiD-gQ&s" alt="Imagen 3">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSel4AK-MJhBdMlKRPGJxwbubyN3dINPI8PuQ&s" alt="Imagen 4">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNGKLHbCf-V0DAiNnhbAzXmQUxjNmJ2U5p0w&s" alt="Imagen 5">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ71uAxDuGwKVPAmI734uwKx8mTIPpecVRIKA&s" alt="Imagen 6">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypJ4ljFQjshgGs4z8tAKX3jSncNJ4IhYodg&s" alt="Imagen 7">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaUnZJbvoOVMCzKqYt8WruaE-IPbPWDlJJIg&s" alt="Imagen 8">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn1Me0XmCBZukudivnMf38nZXwUNI0LtwOTA&s" alt="Imagen 9">
+    </div>
+</body>
+</html>
