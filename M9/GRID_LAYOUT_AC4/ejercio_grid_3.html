@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Template Web Clon Grid Ejercicio 3</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      display: grid;
+      grid-template-rows: auto auto 1fr auto;
+      align-items: center;
+      justify-items: center;
+    }
+
+    .header {
+      width: 100%;
+      background-color: #f8f8f8;
+      display: grid;
+      grid-template-rows: auto auto;
+      justify-items: center;
+    }
+
+    .header-top {
+      width: 100%;
+      background-color: #2a509d;
+      color: #f5f5f5;
+      padding: 10px;
+      text-align: center;
+    }
+
+    .header-main {
+      width: 90%;
+      max-width: 1200px;
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 0;
+    }
+
+    .logo {
+      font-size: 24px;
+      color: #d72d6b;
+    }
+
+    .header-main input {
+      padding: 5px;
+    }
+
+    .icons {
+      display: grid;
+      grid-template-columns: repeat(3, auto);
+      gap: 5px;
+    }
+
+    .icons a {
+      font-size: 20px;
+      color: #555;
+      text-align: center;
+    }
+
+    .icons button {
+      background-color: #c72c5e;
+      padding: 5px 10px;
+      cursor: pointer;
+      border-radius: 0;
+    }
+
+    .navbar {
+      width: 90%;
+      max-width: 1200px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(100px, auto));
+      justify-content: end;
+      gap: 10px;
+      padding: 10px 0;
+      background-color: #f8f8f8;
+    }
+
+    .navbar a {
+      text-decoration: none;
+      color: #c72c5e;
+    }
+
+    .banner {
+      width: 90%;
+      max-width: 1200px;
+      display: grid;
+      grid-template-rows: 1fr;
+      grid-template-columns: 1fr 1fr;
+      align-items: end;
+    }
+
+    .banner img {
+      grid-column: 1 / -1;
+      grid-row: 1;
+      width: 100%;
+      border-radius: 5px;
+      max-height: 400px;
+      object-fit: cover;
+    }
+
+    .banner-text {
+      grid-column: 2;
+      grid-row: 1;
+      justify-self: end;
+      align-self: end;
+      margin-bottom: 20px;
+      color: rgb(10, 10, 10);
+      text-align: center;
+      background: rgba(255, 255, 255, 0.5);
+      padding: 20px;
+      border-radius: 1px;
+      margin-right: 10px;
+    }
+
+    .banner-text h2 {
+      color: #c72c5e;
+      margin-bottom: 10px;
+    }
+
+    .banner-text p {
+      color: rgb(10, 10, 10);
+      margin-bottom: 10px;
+    }
+
+    .banner-text button {
+      background-color: rgba(255, 255, 255, 0.5);
+      color: rgb(10, 10, 10);
+      border: 1px solid black;
+      padding: 10px 20px;
+      cursor: pointer;
+      font-size: 16px;
+      border-radius: 0;
+      transition: background-color 0.3s;
+      margin-top: 10px;
+    }
+
+    .banner-text button:hover {
+      background-color: #c72c5e;
+    }
+
+    .categories {
+      width: 90%;
+      max-width: 1200px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      margin: 20px 0;
+    }
+
+    .category {
+      padding: 20px;
+      background-color: #eee;
+      text-align: center;
+    }
+
+    .products {
+      width: 90%;
+      max-width: 1200px;
+      text-align: center;
+    }
+
+    .products h2 {
+      color: #060606;
+      border-bottom: 1px solid #c72c5e;
+      display: inline-block;
+      padding-bottom: 5px;
+    }
+
+    .product-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      gap: 20px;
+      margin-top: 10px;
+    }
+
+    .product {
+      background-color: #eee;
+      display: grid;
+      align-items: center;
+      justify-content: center;
+      border-radius: 5px;
+      height: 100px;
+    }
+
+    .footer {
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 10px;
+      padding: 20px;
+      background-color: #f8f8f8;
+      margin-top: 20px;
+    }
+
+    .footer p {
+      background-color: #ddd;
+      padding: 5px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-top">
+      <p>Thanks for supporting local! Our online shop is open & shipping orders.</p>
+    </div>
+    <div class="header-main">
+      <h1 class="logo">Emporium</h1>
+      <input type="text" placeholder="What are you looking for?">
+      <div class="icons">
+        <button>🔍</button>
+        <a href="#">❤️</a>
+        <a href="#">🛒</a>
+      </div>
+    </div>
+    <nav class="navbar">
+      <a href="#">Shop</a>
+      <a href="#">Blog</a>
+      <a href="#">Our Story</a>
+      <a href="#">FAQs</a>
+      <a href="#">Support</a>
+    </nav>
+  </header>
+
+  <section class="banner">
+    <img src="https://cdn.thegranary.co.uk/swanfrs/whitemeadow/penthouse/penthouse_lifestyle_dusk_harissa%7Bw=790%7D.jpg" alt="Main Banner">
+    <div class="banner-text">
+      <h2>Bring in New Light</h2>
+      <p>Illuminate your home with our latest arrivals</p>
+      <button>Shop New</button>
+    </div>
+  </section>
+
+  <section class="categories">
+    <div class="category">
+      <h3>Our Seasonal Picks</h3>
+      <p>Our team’s loved products from this season</p>
+    </div>
+    <div class="category">
+      <h3>Gifts for Everyone</h3>
+      <p>A curated collection of products for any homeowner</p>
+    </div>
+    <div class="category">
+      <h3>We Love Accessories</h3>
+      <p>Shop our favorite bags, scarves, and leather goods</p>
+    </div>
+  </section>
+
+  <section class="products">
+    <h2>Gifts</h2>
+    <div class="product-list">
+      <div class="span-1"></div>
+      <div class="product">👜</div>
+      <div class="product">👜</div>
+      <div class="product">👜</div>
+      <div class="product">👜</div>
+      <div class="product">👜</div>
+      <div class="span-1"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>Lifestyle</p>
+    <p>Home Decor</p>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ejercicio 1 Grid</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f4f4f4;
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(3, 1fr);
+      gap: 10px;
+      width: 80vw;
+      height: 80vh;
+      background-color: #ffffff;
+      padding: 20px;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .cuadrado {
+      grid-column: span 2;
+      grid-row: span 2;
+      background-color: #8fcccb;
+      border-radius: 10px;
+    }
+
+    .circulo {
+      background-color: #8fcccb;
+      border-radius: 50%;
+    }
+
+    .circulo:nth-child(2) {
+      grid-column: 3;
+      grid-row: 1;
+    }
+
+    .circulo:nth-child(3) {
+      grid-column: 4;
+      grid-row: 1;
+    }
+
+    .circulo:nth-child(4) {
+      grid-column: 3;
+      grid-row: 2;
+    }
+
+    .circulo:nth-child(5) {
+      grid-column: 4;
+      grid-row: 2;
+    }
+
+    .circulo:nth-child(6) {
+      grid-column: 2;
+      grid-row: 3;
+    }
+
+    .circulo:nth-child(7) {
+      grid-column: 3;
+      grid-row: 3;
+    }
+
+    .circulo:nth-child(8) {
+      grid-column: 4;
+      grid-row: 3;
+    }
+  </style>
+</head>
+<body>
+  <div class="grid-container">
+    <div class="cuadrado"></div>
+    <div class="circulo"></div>
+    <div class="circulo"></div>
+    <div class="circulo"></div>
+    <div class="circulo"></div>
+    <div class="circulo"></div>
+    <div class="circulo"></div>
+    <div class="circulo"></div>
+    <div class="circulo"></div>
+  </div>
+</body>
+</html>
