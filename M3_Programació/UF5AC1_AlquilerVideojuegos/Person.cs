@@ -7,6 +7,8 @@ public class Person
         public string PhoneNumber { get; set; }
         public LinkedList<VideoGame> RentedGames { get; set; }
 
+        public const string Juego = "🎮"; public const string Joystick = "🕹️";
+
         public Person(string firstName, string lastName, int age, string address, string phoneNumber)
         {
             FirstName = firstName;

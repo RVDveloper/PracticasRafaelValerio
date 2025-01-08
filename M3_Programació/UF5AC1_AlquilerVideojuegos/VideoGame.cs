@@ -9,6 +9,8 @@ public class VideoGame
 
         public Employee RentedByEmployee { get; set; }
 
+        public const string Juego = "🎮"; public const string Joystick = "🕹️";
+
         public VideoGame(string title, int releaseYear, string genre, string developer)
         {
             Title = title;
@@ -22,7 +24,7 @@ public class VideoGame
 
         public override string ToString()
         {
-            string rentedStatus = IsRented ? $"(Rented by {RentedByEmployee.FirstName} {RentedByEmployee.LastName})" : "(Available)";
+            
             return $"{Title} ({ReleaseYear}) - {Genre} | {Developer} | Times rented: {TimesRented}";
         }
     }

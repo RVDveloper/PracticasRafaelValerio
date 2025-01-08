@@ -1,5 +1,6 @@
 ﻿internal class Program
 {
+    public const string Juego = "🎮"; public const string Joystick = "🕹️"; public const string Warning = "⚠️";public const string CrossMark = "❌";
     private static void Main(string[] args)
     {
 
@@ -8,6 +9,9 @@
 
         var employee1 = new Employee("Albert", "Guardiola", 40, "carrer gran gracia Barcelona", "642-56782", "Manager", 5000);
         system.AddEmployee(employee1);
+        var employee2 = new Employee("Marta", "Garcia", 35, "carrer gran Gracia Barcelona", "642-567890", "Developer", 3000);
+        system.AddEmployee(employee2);
+        
         system.AddVideoGame(new VideoGame("The Witcher 3", 2015, "RPG", "CD Projekt Red"));
         system.AddVideoGame(new VideoGame("Minecraft", 2011, "Sandbox", "Mojang"));
         system.AddVideoGame(new VideoGame("The Elder Scrolls V: Skyrim", 2011, "Open World", "Bethesda Softworks"));
@@ -32,22 +36,22 @@
             Console.Clear();
             Console.BackgroundColor = ConsoleColor.Green;
 
-            Console.WriteLine("=== Rental System Menu ===");
+            Console.WriteLine($"=== Rental System Menu{Joystick} ===");
             Console.WriteLine("1) Add User");
-            Console.WriteLine("2) Remove User");
+            Console.WriteLine($"2) Remove User{CrossMark}");
             Console.WriteLine("3) Add Employee");
-            Console.WriteLine("4) Remove Employee");
-            Console.WriteLine("5) Add Video Game");
-            Console.WriteLine("6) Remove Video Game");
-            Console.WriteLine("7) Rent Video Game");
+            Console.WriteLine($"4) Remove Employee{CrossMark}");
+            Console.WriteLine($"5) Add Video Game{Juego}");
+            Console.WriteLine($"6) Remove Video Game{Juego}{CrossMark}");
+            Console.WriteLine($"7) Rent Video Game{Joystick}.");
             Console.WriteLine("8) Return Video Game");
-            Console.WriteLine("9) List Available Games");
+            Console.WriteLine($"9) List Available Games{Juego}");
             Console.WriteLine("10) List Rented Games");
             Console.WriteLine("11) List Games by User");
             Console.WriteLine("12) List Users with Rented Games");
             Console.WriteLine("13) List All Users");
             Console.WriteLine("14) List Employees");
-            Console.WriteLine("15) Exit");
+            Console.WriteLine($"15) Exit{Warning}");
             Console.Write("Select an option: ");
 
             Console.ResetColor();
@@ -185,7 +189,7 @@
 
 
                 case "15":
-                    Console.WriteLine("Exiting...");
+                    Console.WriteLine($"{Warning}Exiting...");
                     exit = true;
                     break;
 

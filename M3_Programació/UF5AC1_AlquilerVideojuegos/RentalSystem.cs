@@ -5,6 +5,8 @@ public class RentalSystem
     private LinkedList<Employee> employees;
     private LinkedList<VideoGame> videoGames;
 
+    public const string Juego = "🎮"; public const string Joystick = "🕹️";
+
     public RentalSystem()
     {
         users = new LinkedList<Person>();
@@ -20,6 +22,8 @@ public class RentalSystem
 
     public void RemoveUser(string firstName, string lastName)
     {
+        Console.BackgroundColor = ConsoleColor.Red;
+
         var node = users.First;
         while (node != null)
         {
@@ -27,11 +31,14 @@ public class RentalSystem
             {
                 users.Remove(node);
                 Console.WriteLine($"User {firstName} {lastName} removed.");
+                Console.ResetColor();
                 return;
             }
             node = node.Next;
         }
-        Console.WriteLine($"User {firstName} {lastName} not found.");
+        Console.WriteLine($"User {firstName} {lastName} not found not exist in the system.");
+
+        Console.ResetColor();
     }
 
     public void AddEmployee(Employee employee)
@@ -42,6 +49,8 @@ public class RentalSystem
 
     public void RemoveEmployee(string firstName, string lastName)
     {
+        Console.BackgroundColor = ConsoleColor.Red;
+
         var node = employees.First;
         while (node != null)
         {
@@ -49,21 +58,30 @@ public class RentalSystem
             {
                 employees.Remove(node);
                 Console.WriteLine($"Employee {firstName} {lastName} removed.");
+
+                Console.ResetColor();
+
                 return;
             }
             node = node.Next;
         }
         Console.WriteLine($"Employee {firstName} {lastName} not found.");
+
+        Console.ResetColor();
+
+
     }
 
     public void AddVideoGame(VideoGame videoGame)
     {
         videoGames.AddLast(videoGame);
-        Console.WriteLine($"Video game {videoGame.Title} registered.");
+        Console.WriteLine($"{Juego}Video game {videoGame.Title} registered.");
     }
 
     public void RemoveVideoGame(string title)
     {
+        Console.BackgroundColor = ConsoleColor.Red;
+
         var node = videoGames.First;
         while (node != null)
         {
@@ -71,11 +89,14 @@ public class RentalSystem
             {
                 videoGames.Remove(node);
                 Console.WriteLine($"Video game {title} removed.");
+                Console.ResetColor();
                 return;
             }
             node = node.Next;
         }
-        Console.WriteLine($"Video game {title} not found.");
+        Console.WriteLine($"Video game {title} not found not exist in the system.");
+
+        Console.ResetColor();
     }
 
     public void RentGame(string title, string firstName, string lastName)
@@ -83,6 +104,8 @@ public class RentalSystem
         var gameNode = videoGames.First;
         while (gameNode != null)
         {
+            Console.BackgroundColor = ConsoleColor.DarkCyan;
+
             if (gameNode.Value.Title == title && !gameNode.Value.IsRented)
             {
                 var userNode = users.First;
@@ -90,6 +113,8 @@ public class RentalSystem
                 {
                     if (userNode.Value.FirstName == firstName && userNode.Value.LastName == lastName)
                     {
+                        Console.BackgroundColor = ConsoleColor.DarkYellow;
+
                         Console.WriteLine("Available employees to associate with this rental:");
                         var employeeList = new List<Employee>(employees);
                         for (int i = 0; i < employeeList.Count; i++)
@@ -110,22 +135,27 @@ public class RentalSystem
                             gameNode.Value.RentedByEmployee = selectedEmployee;
                             userNode.Value.RentedGames.AddLast(gameNode.Value);
 
-                            Console.WriteLine($"Game {title} rented to {firstName} {lastName}.");
+                            Console.WriteLine($"{Juego}Game {title} rented to {firstName} {lastName}.");
+                            Console.ResetColor();
                         }
                         else
                         {
                             Console.WriteLine("Invalid selection. Rental canceled.");
+                            Console.ResetColor();
                         }
                         return;
                     }
                     userNode = userNode.Next;
                 }
-                Console.WriteLine($"User {firstName} {lastName} not found.");
+                Console.WriteLine($"User {firstName} {lastName} not found not exist in the system.");
+                Console.ResetColor();
                 return;
             }
             gameNode = gameNode.Next;
+            Console.ResetColor();
         }
         Console.WriteLine($"Game {title} is not available.");
+        Console.ResetColor();
     }
 
     public void ReturnGame(string title, string firstName, string lastName)
@@ -153,17 +183,19 @@ public class RentalSystem
             }
             userNode = userNode.Next;
         }
-        Console.WriteLine($"User {firstName} {lastName} not found.");
+        Console.WriteLine($"User {firstName} {lastName} not found not exist in the system.");
     }
 
     public void ListAvailableGames()
     {
+        Console.BackgroundColor = ConsoleColor.DarkMagenta;
         Console.WriteLine("Available video games:");
         foreach (var game in videoGames)
         {
             if (!game.IsRented)
                 Console.WriteLine(game);
         }
+        Console.ResetColor();
     }
 
 
@@ -177,7 +209,7 @@ public class RentalSystem
                 string rentedBy = game.RentedByEmployee != null
                     ? $"Rented by employee: {game.RentedByEmployee.FirstName} {game.RentedByEmployee.LastName}"
                     : "No employee associated";
-                Console.WriteLine($"{game} | {rentedBy}");
+                Console.WriteLine($"{Juego}{game} | {rentedBy}");
             }
         }
     }
@@ -195,7 +227,7 @@ public class RentalSystem
                     string rentedBy = game.RentedByEmployee != null
                         ? $"Rented by employee: {game.RentedByEmployee.FirstName} {game.RentedByEmployee.LastName}"
                         : "No employee associated";
-                    Console.WriteLine($"{game} | {rentedBy}");
+                    Console.WriteLine($"{Juego}{game} | {rentedBy}");
                 }
                 return;
             }
@@ -208,6 +240,7 @@ public class RentalSystem
         Console.WriteLine("Users with rented games:");
         foreach (var user in users)
         {
+            Console.BackgroundColor = ConsoleColor.DarkCyan;
             if (user.RentedGames.Count > 0)
             {
                 Console.WriteLine($"{user.FirstName} {user.LastName}:");
@@ -216,14 +249,17 @@ public class RentalSystem
                     string rentedBy = game.RentedByEmployee != null
                         ? $"Rented by employee: {game.RentedByEmployee.FirstName} {game.RentedByEmployee.LastName}"
                         : "No employee associated";
-                    Console.WriteLine($"  - {game} | {rentedBy}");
+                    Console.WriteLine($" {Juego} - {game} | {rentedBy}");
                 }
             }
+            Console.ResetColor();
         }
     }
 
         public void ListAllUsers()
     {
+        Console.BackgroundColor = ConsoleColor.DarkBlue;
+
         if (users.Count == 0)
         {
             Console.WriteLine("No users registered.");
@@ -235,13 +271,18 @@ public class RentalSystem
         {
             Console.WriteLine(user);
         }
+        Console.ResetColor();
     }
     public void ListEmployees()
     {
+        Console.BackgroundColor = ConsoleColor.DarkYellow;
+
         Console.WriteLine("Registered employees:");
         foreach (var employee in employees)
         {
             Console.WriteLine(employee);
         }
+
+        Console.ResetColor();
     }
 }
