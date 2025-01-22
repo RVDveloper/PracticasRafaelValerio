@@ -1,0 +1,14 @@
+/Users/pro/C#Game/bin/Debug/net8.0/C#Game
+/Users/pro/C#Game/bin/Debug/net8.0/C#Game.deps.json
+/Users/pro/C#Game/bin/Debug/net8.0/C#Game.runtimeconfig.json
+/Users/pro/C#Game/bin/Debug/net8.0/C#Game.dll
+/Users/pro/C#Game/bin/Debug/net8.0/C#Game.pdb
+/Users/pro/C#Game/obj/Debug/net8.0/C#Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pro/C#Game/obj/Debug/net8.0/C#Game.AssemblyInfoInputs.cache
+/Users/pro/C#Game/obj/Debug/net8.0/C#Game.AssemblyInfo.cs
+/Users/pro/C#Game/obj/Debug/net8.0/C#Game.csproj.CoreCompileInputs.cache
+/Users/pro/C#Game/obj/Debug/net8.0/C#Game.dll
+/Users/pro/C#Game/obj/Debug/net8.0/refint/C#Game.dll
+/Users/pro/C#Game/obj/Debug/net8.0/C#Game.pdb
+/Users/pro/C#Game/obj/Debug/net8.0/C#Game.genruntimeconfig.cache
+/Users/pro/C#Game/obj/Debug/net8.0/ref/C#Game.dll
