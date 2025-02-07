@@ -1,0 +1,204 @@
+body {
+    display: Relative;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/8727c9b1-be21-4932-a221-4257b59a74dd);
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    animation: slidein 120s forwards infinite alternate;
+    color: white;
+  }
+
+  @keyframes slidein {
+    0% {
+        background-position: 0% 0%;
+        background-size: 3400px;
+    }
+    50% {
+        background-position: 50% 0%;
+        background-size: 3000px;
+    }
+    100% {
+        background-position: 100% 0%;
+        background-size: 3400px;
+    }
+}
+
+#container{
+  display:flex;
+  flex-wrap: wrap;
+  
+  flex-direction: column;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    background: linear-gradient(45deg, rgb(0, 255, 255) 30%, rgb(255, 0, 255) 60%, rgb(0, 143, 150) 100%, rgb(100, 171, 237) 100%);
+    background-size: 300% 300%; 
+    -webkit-background-clip: text;
+    background-clip: text; 
+    color: transparent; 
+    -webkit-text-stroke: 1px #e6e6e6; 
+    filter: drop-shadow(2px 2px 15px #00ffe0); 
+    animation: bg-shift 5s ease-in-out infinite alternate; 
+    margin-bottom: 20px;
+    margin-left: 70px;
+    
+}
+
+
+@keyframes bg-shift {
+    0% {
+        background-position: 0% 50%; 
+    }
+    100% {
+        background-position: 100% 50%; 
+    }
+}
+
+  #containermain{
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    max-height: 800px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    background:linear-gradient(180deg, transparent, #1f0d4d9f);
+    box-shadow: 
+    0 10px 30px rgba(0, 0, 0, 0.3), 
+    inset 0 5px 10px rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    color: #03e9f4;
+    transition: all .5s ease;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    -webkit-backdrop-filter: blur(10px);
+  }
+  
+
+  th, td {
+    border: 1.3px solid #0F0F0F;
+    text-align: left;
+    padding: 8px;
+    box-shadow: 0 0.5px 0 1px rgba(255, 255, 255, 0.23) inset,
+0 1px 0 0 rgba(255, 255, 255, 0.66) inset, 0 4px 16px rgba(0, 0, 0, 0.12);
+  }
+  
+  th {
+    background: linear-gradient(
+              to right, rgba(0, 168, 253), #fff 35%, #e00a95);
+              color: #000000;
+  }
+  
+  tr:nth-child(even) {
+    
+  background: linear-gradient(270deg, transparent, #f1307e);
+  animation: btn-anim3 1s linear infinite;
+  animation-delay: .5s
+    
+  }
+
+  @keyframes btn-anim3 {
+    0% {
+      right: -100%;
+    }
+    50%,100% {
+      right: 100%;
+    }
+  }
+
+  tr:hover {
+  background: linear-gradient(180deg, transparent, #5b37eb);
+  animation: btn-anim2 1s linear infinite;
+  animation-delay: .25s
+  }
+
+  @keyframes btn-anim2 {
+    0% {
+      top: -100%;
+    }
+    50%,100% {
+      top: 100%;
+    }
+  }
+
+  #containerUrl{
+    display: flex; 
+    gap: 20px; 
+    align-items: center; 
+    justify-content: center; 
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin: 20px;
+    
+    
+
+}
+
+#containerUrl button{
+    width: 200px;
+    height: 50px;
+    margin-bottom: 20px;
+
+}
+
+button {
+    position: relative;
+    padding: 12px;
+    color: #03e9f4;
+    background-color: #040a22;
+    font-size: 16px; 
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    letter-spacing: 2px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px; 
+    height: 40px;
+    margin-left: 9px; 
+    
+}
+
+button i {
+    margin: 0; 
+}
+
+button:hover {
+    background: #080808;
+    color: #fff;
+    box-shadow: 0 0 5px #5b37eb, 0 0 25px #5b37eb, 0 0 50px #f1307e, 0 0 100px #f1307e;
+}
+
+@media(width <= 600px) {
+
+  #containermain{
+    font-size:0.60rem;
+
+  }
+  
+  #container{
+    margin: 0;
+    
+    
+    font-size: 0.60rem;
+  }
+}
