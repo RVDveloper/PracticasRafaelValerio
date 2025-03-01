@@ -4,7 +4,7 @@ internal class Program
     
     private static void Main(string[] args)
     {
-        // Lista de personas
+        //? Rafael Valerio AC4 Linq
         List<Persona> personas = new List<Persona>
         {
             new Persona("Juan", 30),
