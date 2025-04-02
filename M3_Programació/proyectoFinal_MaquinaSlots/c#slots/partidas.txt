@@ -1,0 +1,1257 @@
+=== Partida de raf ===
+Fecha: 26/3/2025 22:37:59
+Órdenes de producción:
+R2D2 #1 - Versión: 3 - Batallas: 21
+BB8 #2 - Versión: 1,3 - Vuelos: 104 - Reparaciones: 19
+C3PO #3 - Reparaciones: 2
+BB8 #4 - Versión: 3,6 - Vuelos: 16 - Reparaciones: 7
+BB8 #5 - Versión: 4,0 - Vuelos: 40 - Reparaciones: 8
+BB8 #6 - Versión: 9,0 - Vuelos: 142 - Reparaciones: 17
+R2D2 #7 - Versión: 6 - Batallas: 12
+C3PO #8 - Reparaciones: 16
+BB8 #9 - Versión: 2,0 - Vuelos: 2 - Reparaciones: 10
+C3PO #10 - Reparaciones: 26
+R2D2 #11 - Versión: 4 - Batallas: 27
+R2D2 #12 - Versión: 3 - Batallas: 89
+R2D2 #13 - Versión: 8 - Batallas: 31
+R2D2 #14 - Versión: 5 - Batallas: 68
+BB8 #15 - Versión: 2,0 - Vuelos: 11 - Reparaciones: 26
+R2D2 #16 - Versión: 7 - Batallas: 99
+R2D2 #17 - Versión: 1 - Batallas: 14
+BB8 #18 - Versión: 3,0 - Vuelos: 40 - Reparaciones: 12
+R2D2 #19 - Versión: 6 - Batallas: 57
+BB8 #20 - Versión: 9,8 - Vuelos: 137 - Reparaciones: 5
+BB8 #21 - Versión: 4,9 - Vuelos: 45 - Reparaciones: 20
+R2D2 #22 - Versión: 8 - Batallas: 46
+BB8 #23 - Versión: 2,3 - Vuelos: 188 - Reparaciones: 26
+R2D2 #24 - Versión: 1 - Batallas: 31
+C3PO #25 - Reparaciones: 47
+C3PO #26 - Reparaciones: 40
+R2D2 #27 - Versión: 5 - Batallas: 96
+R2D2 #28 - Versión: 6 - Batallas: 35
+R2D2 #29 - Versión: 8 - Batallas: 3
+C3PO #30 - Reparaciones: 12
+
+=== TOTALES ===
+Total R2D2: 14
+Total C3PO: 6
+Total BB8: 10
+Total Batallas: 787
+Total Reparaciones: 335
+Total Vuelos: 1021
+Puntos totales: 64
+
+=== Partida de raffaele valerio ===
+Fecha: 28/3/2025 16:58:36
+Órdenes de producción:
+R2D2 #1 - Version: 3 - Batallas: 74
+C3PO #2 - Reparaciones: 32
+R2D2 #3 - Version: 9 - Batallas: 54
+BB8 #4 - Version: 3,0 - Vuelos: 183 - Reparaciones: 16
+BB8 #5 - Version: 8,8 - Vuelos: 48 - Reparaciones: 6
+R2D2 #6 - Version: 2 - Batallas: 24
+R2D2 #7 - Version: 4 - Batallas: 55
+BB8 #8 - Version: 9,4 - Vuelos: 18 - Reparaciones: 22
+C3PO #9 - Reparaciones: 49
+R2D2 #10 - Version: 3 - Batallas: 92
+R2D2 #11 - Version: 6 - Batallas: 20
+R2D2 #12 - Version: 3 - Batallas: 7
+R2D2 #13 - Version: 3 - Batallas: 30
+BB8 #14 - Version: 9,0 - Vuelos: 18 - Reparaciones: 2
+C3PO #15 - Reparaciones: 2
+R2D2 #16 - Version: 1 - Batallas: 9
+R2D2 #17 - Version: 5 - Batallas: 29
+BB8 #18 - Version: 3,9 - Vuelos: 17 - Reparaciones: 26
+BB8 #19 - Version: 2,1 - Vuelos: 16 - Reparaciones: 2
+C3PO #20 - Reparaciones: 23
+R2D2 #21 - Version: 9 - Batallas: 6
+BB8 #22 - Version: 4,2 - Vuelos: 106 - Reparaciones: 26
+C3PO #23 - Reparaciones: 47
+C3PO #24 - Reparaciones: 24
+BB8 #25 - Version: 3,3 - Vuelos: 140 - Reparaciones: 28
+R2D2 #26 - Version: 6 - Batallas: 56
+BB8 #27 - Version: 1,1 - Vuelos: 1 - Reparaciones: 29
+C3PO #28 - Reparaciones: 11
+R2D2 #29 - Version: 4 - Batallas: 63
+BB8 #30 - Version: 9,8 - Vuelos: 133 - Reparaciones: 18
+
+=== TOTALES ===
+Total R2D2: 13
+Total C3PO: 7
+Total BB8: 10
+Total Batallas: 470
+Total Reparaciones: 388
+Total Vuelos: 962
+Puntos totales: 63
+
+=== Partida de pruebaPlayer ===
+Fecha: 28/3/2025 17:02:41
+Órdenes de producción:
+
+=== TOTALES ===
+Total R2D2: 0
+Total C3PO: 0
+Total BB8: 0
+Total Batallas: 0
+Total Reparaciones: 0
+Total Vuelos: 0
+Puntos totales: 0
+
+=== Partida de raffaaaa ===
+Fecha: 28/3/2025 17:42:33
+Órdenes de producción:
+
+=== TOTALES ===
+Total R2D2: 0
+Total C3PO: 0
+Total BB8: 0
+Total Batallas: 0
+Total Reparaciones: 0
+Total Vuelos: 0
+Puntos totales: 0
+
+=== Partida de hgff ===
+Fecha: 28/3/2025 17:44:51
+Órdenes de producción:
+
+=== TOTALES ===
+Total R2D2: 0
+Total C3PO: 0
+Total BB8: 0
+Total Batallas: 0
+Total Reparaciones: 0
+Total Vuelos: 0
+Puntos totales: 0
+
+=== Partida de prueba3 ===
+Fecha: 28/3/2025 17:46:48
+Órdenes de producción:
+
+=== TOTALES ===
+Total R2D2: 0
+Total C3PO: 0
+Total BB8: 0
+Total Batallas: 0
+Total Reparaciones: 0
+Total Vuelos: 0
+Puntos totales: 0
+
+=== Partida de pruebafinal ===
+Fecha: 28/3/2025 18:00:06
+Órdenes de producción:
+C3PO #1 - Reparaciones: 44
+BB8 #2 - Version: 8,1 - Vuelos: 162 - Reparaciones: 20
+C3PO #3 - Reparaciones: 15
+R2D2 #4 - Version: 5 - Batallas: 89
+C3PO #5 - Reparaciones: 21
+C3PO #6 - Reparaciones: 16
+R2D2 #7 - Version: 7 - Batallas: 36
+R2D2 #8 - Version: 2 - Batallas: 10
+C3PO #9 - Reparaciones: 29
+BB8 #10 - Version: 5,4 - Vuelos: 182 - Reparaciones: 27
+BB8 #11 - Version: 3,4 - Vuelos: 182 - Reparaciones: 10
+BB8 #12 - Version: 9,7 - Vuelos: 112 - Reparaciones: 17
+BB8 #13 - Version: 4,8 - Vuelos: 83 - Reparaciones: 21
+R2D2 #14 - Version: 2 - Batallas: 52
+BB8 #15 - Version: 7,4 - Vuelos: 198 - Reparaciones: 16
+BB8 #16 - Version: 7,9 - Vuelos: 68 - Reparaciones: 28
+R2D2 #17 - Version: 2 - Batallas: 77
+R2D2 #18 - Version: 8 - Batallas: 16
+BB8 #19 - Version: 3,9 - Vuelos: 168 - Reparaciones: 14
+BB8 #20 - Version: 4,2 - Vuelos: 31 - Reparaciones: 10
+C3PO #21 - Reparaciones: 48
+C3PO #22 - Reparaciones: 27
+C3PO #23 - Reparaciones: 29
+R2D2 #24 - Version: 3 - Batallas: 95
+R2D2 #25 - Version: 9 - Batallas: 9
+R2D2 #26 - Version: 3 - Batallas: 89
+BB8 #27 - Version: 6,5 - Vuelos: 173 - Reparaciones: 16
+R2D2 #28 - Version: 3 - Batallas: 16
+BB8 #29 - Version: 7,3 - Vuelos: 139 - Reparaciones: 18
+BB8 #30 - Version: 9,9 - Vuelos: 91 - Reparaciones: 24
+
+=== TOTALES ===
+Total R2D2: 10
+Total C3PO: 8
+Total BB8: 12
+Total Batallas: 525
+Total Reparaciones: 355
+Total Vuelos: 1661
+Puntos totales: 58
+
+=== Partida de kristopher ===
+Fecha: 31/3/2025 16:17:07
+Órdenes de producción:
+R2D2 #1 - Version: 5 - Batallas: 1
+C3PO #2 - Reparaciones: 5
+BB8 #3 - Version: 8,7 - Vuelos: 194 - Reparaciones: 16
+R2D2 #4 - Version: 8 - Batallas: 6
+R2D2 #5 - Version: 9 - Batallas: 8
+BB8 #6 - Version: 4,2 - Vuelos: 14 - Reparaciones: 24
+C3PO #7 - Reparaciones: 40
+BB8 #8 - Version: 8,2 - Vuelos: 186 - Reparaciones: 29
+R2D2 #9 - Version: 3 - Batallas: 20
+BB8 #10 - Version: 7,1 - Vuelos: 7 - Reparaciones: 23
+BB8 #11 - Version: 3,1 - Vuelos: 30 - Reparaciones: 29
+BB8 #12 - Version: 1,7 - Vuelos: 83 - Reparaciones: 29
+C3PO #13 - Reparaciones: 34
+C3PO #14 - Reparaciones: 41
+C3PO #15 - Reparaciones: 37
+
+=== TOTALES ===
+Total R2D2: 4
+Total C3PO: 5
+Total BB8: 6
+Total Batallas: 142
+Total Reparaciones: 268
+Total Vuelos: 421
+Puntos totales: 28
+
+=== Partida de rafael3 ===
+Fecha: 2/4/2025 16:37:46
+Órdenes de producción:
+R2D2 #1 - Version: 2 - Batallas: 34
+R2D2 #2 - Version: 9 - Batallas: 95
+BB8 #3 - Version: 9,3 - Vuelos: 80 - Reparaciones: 6
+C3PO #4 - Reparaciones: 19
+R2D2 #5 - Version: 2 - Batallas: 26
+C3PO #6 - Reparaciones: 22
+BB8 #7 - Version: 7,3 - Vuelos: 177 - Reparaciones: 29
+R2D2 #8 - Version: 9 - Batallas: 90
+C3PO #9 - Reparaciones: 26
+C3PO #10 - Reparaciones: 23
+C3PO #11 - Reparaciones: 36
+R2D2 #12 - Version: 3 - Batallas: 6
+BB8 #13 - Version: 6,5 - Vuelos: 66 - Reparaciones: 20
+C3PO #14 - Reparaciones: 14
+C3PO #15 - Reparaciones: 7
+BB8 #16 - Version: 4,5 - Vuelos: 74 - Reparaciones: 22
+C3PO #17 - Reparaciones: 10
+R2D2 #18 - Version: 2 - Batallas: 29
+
+=== TOTALES ===
+Total R2D2: 6
+Total C3PO: 8
+Total BB8: 4
+Total Batallas: 330
+Total Reparaciones: 254
+Total Vuelos: 579
+Puntos totales: 38
+
+=== Partida de Jugador ===
+Fecha: 2/4/2025 18:41:42
+Órdenes de producción:
+C3PO #1 - Reparaciones: 43
+R2D2 #2 - Version: 3 - Batallas: 21
+C3PO #3 - Reparaciones: 23
+BB8 #4 - Version: 8,9 - Vuelos: 59 - Reparaciones: 26
+BB8 #5 - Version: 4,0 - Vuelos: 146 - Reparaciones: 25
+C3PO #6 - Reparaciones: 44
+C3PO #7 - Reparaciones: 1
+R2D2 #8 - Version: 8 - Batallas: 61
+R2D2 #9 - Version: 7 - Batallas: 60
+
+=== TOTALES ===
+Total R2D2: 3
+Total C3PO: 4
+Total BB8: 2
+Total Batallas: 157
+Total Reparaciones: 94
+Total Vuelos: 27
+Puntos totales: 19
+
+=== Partida de Jugador ===
+Fecha: 2/4/2025 18:46:08
+Órdenes de producción:
+R2D2 #1 - Version: 4 - Batallas: 16
+R2D2 #2 - Version: 6 - Batallas: 91
+R2D2 #3 - Version: 6 - Batallas: 7
+BB8 #4 - Version: 1,8 - Vuelos: 141 - Reparaciones: 17
+BB8 #5 - Version: 2,9 - Vuelos: 65 - Reparaciones: 6
+C3PO #6 - Reparaciones: 16
+C3PO #7 - Reparaciones: 19
+R2D2 #8 - Version: 4 - Batallas: 97
+C3PO #9 - Reparaciones: 30
+
+=== TOTALES ===
+Total R2D2: 4
+Total C3PO: 3
+Total BB8: 2
+Total Batallas: 194
+Total Reparaciones: 87
+Total Vuelos: 213
+Puntos totales: 20
+
+=== Partida de rafael6 ===
+Fecha: 2/4/2025 18:59:17
+Órdenes de producción:
+C3PO #1 - Reparaciones: 39
+R2D2 #2 - Version: 9 - Batallas: 26
+C3PO #3 - Reparaciones: 1
+C3PO #4 - Reparaciones: 46
+C3PO #5 - Reparaciones: 4
+BB8 #6 - Version: 2,4 - Vuelos: 79 - Reparaciones: 27
+C3PO #7 - Reparaciones: 21
+C3PO #8 - Reparaciones: 48
+C3PO #9 - Reparaciones: 36
+C3PO #10 - Reparaciones: 6
+BB8 #11 - Version: 1,7 - Vuelos: 158 - Reparaciones: 24
+C3PO #12 - Reparaciones: 10
+BB8 #13 - Version: 2,7 - Vuelos: 20 - Reparaciones: 22
+R2D2 #14 - Version: 9 - Batallas: 43
+R2D2 #15 - Version: 6 - Batallas: 38
+C3PO #16 - Reparaciones: 9
+BB8 #17 - Version: 2,3 - Vuelos: 73 - Reparaciones: 8
+BB8 #18 - Version: 9,6 - Vuelos: 89 - Reparaciones: 18
+C3PO #19 - Reparaciones: 16
+R2D2 #20 - Version: 1 - Batallas: 87
+C3PO #21 - Reparaciones: 17
+R2D2 #22 - Version: 5 - Batallas: 18
+BB8 #23 - Version: 7,9 - Vuelos: 142 - Reparaciones: 4
+R2D2 #24 - Version: 8 - Batallas: 1
+C3PO #25 - Reparaciones: 1
+C3PO #26 - Reparaciones: 21
+BB8 #27 - Version: 4,9 - Vuelos: 191 - Reparaciones: 14
+R2D2 #28 - Version: 9 - Batallas: 57
+C3PO #29 - Reparaciones: 12
+R2D2 #30 - Version: 1 - Batallas: 60
+R2D2 #31 - Version: 5 - Batallas: 94
+C3PO #32 - Reparaciones: 47
+BB8 #33 - Version: 2,9 - Vuelos: 70 - Reparaciones: 9
+R2D2 #34 - Version: 5 - Batallas: 81
+C3PO #35 - Reparaciones: 13
+BB8 #36 - Version: 9,2 - Vuelos: 150 - Reparaciones: 27
+C3PO #37 - Reparaciones: 46
+C3PO #38 - Reparaciones: 28
+C3PO #39 - Reparaciones: 49
+BB8 #40 - Version: 2,4 - Vuelos: 145 - Reparaciones: 19
+BB8 #41 - Version: 4,1 - Vuelos: 6 - Reparaciones: 15
+BB8 #42 - Version: 2,3 - Vuelos: 165 - Reparaciones: 22
+R2D2 #43 - Version: 4 - Batallas: 57
+BB8 #44 - Version: 5,9 - Vuelos: 197 - Reparaciones: 4
+R2D2 #45 - Version: 7 - Batallas: 80
+R2D2 #46 - Version: 2 - Batallas: 94
+R2D2 #47 - Version: 6 - Batallas: 95
+BB8 #48 - Version: 9,8 - Vuelos: 115 - Reparaciones: 5
+R2D2 #49 - Version: 7 - Batallas: 89
+BB8 #50 - Version: 2,5 - Vuelos: 197 - Reparaciones: 7
+C3PO #51 - Reparaciones: 38
+R2D2 #52 - Version: 2 - Batallas: 59
+C3PO #53 - Reparaciones: 34
+BB8 #54 - Version: 5,0 - Vuelos: 27 - Reparaciones: 26
+BB8 #55 - Version: 7,3 - Vuelos: 34 - Reparaciones: 10
+R2D2 #56 - Version: 4 - Batallas: 90
+C3PO #57 - Reparaciones: 23
+BB8 #58 - Version: 2,6 - Vuelos: 71 - Reparaciones: 27
+C3PO #59 - Reparaciones: 5
+R2D2 #60 - Version: 4 - Batallas: 34
+C3PO #61 - Reparaciones: 26
+BB8 #62 - Version: 3,0 - Vuelos: 152 - Reparaciones: 18
+BB8 #63 - Version: 9,3 - Vuelos: 64 - Reparaciones: 3
+BB8 #64 - Version: 5,4 - Vuelos: 121 - Reparaciones: 20
+BB8 #65 - Version: 6,7 - Vuelos: 11 - Reparaciones: 15
+BB8 #66 - Version: 5,8 - Vuelos: 110 - Reparaciones: 21
+BB8 #67 - Version: 2,9 - Vuelos: 186 - Reparaciones: 4
+BB8 #68 - Version: 7,7 - Vuelos: 93 - Reparaciones: 26
+R2D2 #69 - Version: 4 - Batallas: 64
+R2D2 #70 - Version: 6 - Batallas: 65
+R2D2 #71 - Version: 4 - Batallas: 70
+C3PO #72 - Reparaciones: 25
+BB8 #73 - Version: 9,5 - Vuelos: 131 - Reparaciones: 8
+C3PO #74 - Reparaciones: 9
+R2D2 #75 - Version: 8 - Batallas: 28
+R2D2 #76 - Version: 3 - Batallas: 29
+BB8 #77 - Version: 9,2 - Vuelos: 76 - Reparaciones: 19
+R2D2 #78 - Version: 5 - Batallas: 61
+BB8 #79 - Version: 9,1 - Vuelos: 150 - Reparaciones: 23
+C3PO #80 - Reparaciones: 6
+C3PO #81 - Reparaciones: 41
+R2D2 #82 - Version: 3 - Batallas: 24
+BB8 #83 - Version: 6,8 - Vuelos: 73 - Reparaciones: 21
+R2D2 #84 - Version: 7 - Batallas: 71
+R2D2 #85 - Version: 5 - Batallas: 63
+R2D2 #86 - Version: 2 - Batallas: 68
+R2D2 #87 - Version: 9 - Batallas: 53
+R2D2 #88 - Version: 4 - Batallas: 64
+R2D2 #89 - Version: 6 - Batallas: 35
+R2D2 #90 - Version: 6 - Batallas: 80
+
+=== TOTALES ===
+Total R2D2: 32
+Total C3PO: 29
+Total BB8: 29
+Total Batallas: 1769
+Total Reparaciones: 1149
+Total Vuelos: 2875
+Puntos totales: 19700
+
+=== Partida de raffaele7 ===
+Fecha: 2/4/2025 19:17:03
+Órdenes de producción:
+BB8 #1 - Version: 1,3 - Vuelos: 102 - Reparaciones: 10
+BB8 #2 - Version: 9,3 - Vuelos: 60 - Reparaciones: 5
+BB8 #3 - Version: 2,5 - Vuelos: 151 - Reparaciones: 22
+BB8 #4 - Version: 1,7 - Vuelos: 109 - Reparaciones: 16
+C3PO #5 - Reparaciones: 45
+C3PO #6 - Reparaciones: 4
+BB8 #7 - Version: 5,8 - Vuelos: 68 - Reparaciones: 21
+C3PO #8 - Reparaciones: 26
+R2D2 #9 - Version: 3 - Batallas: 17
+R2D2 #10 - Version: 1 - Batallas: 82
+R2D2 #11 - Version: 4 - Batallas: 23
+R2D2 #12 - Version: 6 - Batallas: 93
+BB8 #13 - Version: 7,7 - Vuelos: 72 - Reparaciones: 2
+BB8 #14 - Version: 9,6 - Vuelos: 158 - Reparaciones: 18
+R2D2 #15 - Version: 6 - Batallas: 59
+R2D2 #16 - Version: 5 - Batallas: 6
+R2D2 #17 - Version: 1 - Batallas: 26
+BB8 #18 - Version: 8,4 - Vuelos: 102 - Reparaciones: 14
+R2D2 #19 - Version: 6 - Batallas: 62
+C3PO #20 - Reparaciones: 46
+BB8 #21 - Version: 5,2 - Vuelos: 68 - Reparaciones: 12
+BB8 #22 - Version: 9,0 - Vuelos: 111 - Reparaciones: 29
+C3PO #23 - Reparaciones: 11
+C3PO #24 - Reparaciones: 9
+BB8 #25 - Version: 1,9 - Vuelos: 176 - Reparaciones: 18
+R2D2 #26 - Version: 9 - Batallas: 27
+R2D2 #27 - Version: 1 - Batallas: 41
+BB8 #28 - Version: 6,3 - Vuelos: 52 - Reparaciones: 17
+BB8 #29 - Version: 5,9 - Vuelos: 160 - Reparaciones: 2
+BB8 #30 - Version: 6,6 - Vuelos: 100 - Reparaciones: 21
+C3PO #31 - Reparaciones: 19
+BB8 #32 - Version: 3,0 - Vuelos: 37 - Reparaciones: 28
+C3PO #33 - Reparaciones: 23
+BB8 #34 - Version: 5,9 - Vuelos: 162 - Reparaciones: 16
+R2D2 #35 - Version: 7 - Batallas: 15
+C3PO #36 - Reparaciones: 27
+R2D2 #37 - Version: 6 - Batallas: 68
+R2D2 #38 - Version: 4 - Batallas: 32
+BB8 #39 - Version: 5,0 - Vuelos: 40 - Reparaciones: 11
+BB8 #40 - Version: 8,7 - Vuelos: 38 - Reparaciones: 28
+C3PO #41 - Reparaciones: 9
+R2D2 #42 - Version: 8 - Batallas: 35
+R2D2 #43 - Version: 2 - Batallas: 29
+BB8 #44 - Version: 4,3 - Vuelos: 39 - Reparaciones: 7
+C3PO #45 - Reparaciones: 39
+R2D2 #46 - Version: 8 - Batallas: 83
+C3PO #47 - Reparaciones: 33
+BB8 #48 - Version: 2,1 - Vuelos: 122 - Reparaciones: 22
+C3PO #49 - Reparaciones: 36
+R2D2 #50 - Version: 9 - Batallas: 35
+BB8 #51 - Version: 8,1 - Vuelos: 11 - Reparaciones: 5
+R2D2 #52 - Version: 6 - Batallas: 36
+R2D2 #53 - Version: 3 - Batallas: 91
+R2D2 #54 - Version: 5 - Batallas: 23
+BB8 #55 - Version: 4,1 - Vuelos: 131 - Reparaciones: 10
+C3PO #56 - Reparaciones: 46
+R2D2 #57 - Version: 9 - Batallas: 6
+C3PO #58 - Reparaciones: 8
+R2D2 #59 - Version: 9 - Batallas: 30
+R2D2 #60 - Version: 9 - Batallas: 21
+BB8 #61 - Version: 4,4 - Vuelos: 93 - Reparaciones: 9
+BB8 #62 - Version: 2,0 - Vuelos: 151 - Reparaciones: 1
+C3PO #63 - Reparaciones: 38
+BB8 #64 - Version: 2,1 - Vuelos: 48 - Reparaciones: 9
+R2D2 #65 - Version: 6 - Batallas: 20
+R2D2 #66 - Version: 8 - Batallas: 35
+C3PO #67 - Reparaciones: 28
+C3PO #68 - Reparaciones: 2
+C3PO #69 - Reparaciones: 29
+C3PO #70 - Reparaciones: 30
+BB8 #71 - Version: 9,2 - Vuelos: 36 - Reparaciones: 18
+C3PO #72 - Reparaciones: 13
+C3PO #73 - Reparaciones: 18
+R2D2 #74 - Version: 3 - Batallas: 23
+C3PO #75 - Reparaciones: 29
+C3PO #76 - Reparaciones: 41
+BB8 #77 - Version: 7,0 - Vuelos: 45 - Reparaciones: 29
+C3PO #78 - Reparaciones: 42
+C3PO #79 - Reparaciones: 14
+BB8 #80 - Version: 3,6 - Vuelos: 116 - Reparaciones: 1
+R2D2 #81 - Version: 1 - Batallas: 18
+BB8 #82 - Version: 2,8 - Vuelos: 139 - Reparaciones: 12
+R2D2 #83 - Version: 5 - Batallas: 52
+R2D2 #84 - Version: 7 - Batallas: 48
+BB8 #85 - Version: 4,0 - Vuelos: 196 - Reparaciones: 1
+C3PO #86 - Reparaciones: 26
+C3PO #87 - Reparaciones: 31
+R2D2 #88 - Version: 9 - Batallas: 87
+R2D2 #89 - Version: 3 - Batallas: 29
+BB8 #90 - Version: 4,3 - Vuelos: 174 - Reparaciones: 13
+
+=== TOTALES ===
+Total R2D2: 31
+Total C3PO: 28
+Total BB8: 31
+Total Batallas: 1730
+Total Reparaciones: 1113
+Total Vuelos: 3385
+Puntos totales: 14600
+
+=== Partida de kristopher1 ===
+Fecha: 2/4/2025 19:23:21
+Órdenes de producción:
+C3PO #1 - Reparaciones: 21
+BB8 #2 - Version: 7,7 - Vuelos: 27 - Reparaciones: 8
+R2D2 #3 - Version: 2 - Batallas: 70
+C3PO #4 - Reparaciones: 47
+C3PO #5 - Reparaciones: 33
+R2D2 #6 - Version: 8 - Batallas: 11
+C3PO #7 - Reparaciones: 10
+R2D2 #8 - Version: 3 - Batallas: 65
+C3PO #9 - Reparaciones: 12
+C3PO #10 - Reparaciones: 5
+C3PO #11 - Reparaciones: 43
+C3PO #12 - Reparaciones: 1
+R2D2 #13 - Version: 1 - Batallas: 13
+C3PO #14 - Reparaciones: 47
+BB8 #15 - Version: 3,4 - Vuelos: 39 - Reparaciones: 6
+BB8 #16 - Version: 1,2 - Vuelos: 42 - Reparaciones: 19
+R2D2 #17 - Version: 2 - Batallas: 77
+C3PO #18 - Reparaciones: 17
+C3PO #19 - Reparaciones: 20
+C3PO #20 - Reparaciones: 25
+C3PO #21 - Reparaciones: 48
+R2D2 #22 - Version: 5 - Batallas: 40
+C3PO #23 - Reparaciones: 46
+R2D2 #24 - Version: 5 - Batallas: 25
+C3PO #25 - Reparaciones: 15
+R2D2 #26 - Version: 1 - Batallas: 62
+R2D2 #27 - Version: 6 - Batallas: 81
+C3PO #28 - Reparaciones: 33
+C3PO #29 - Reparaciones: 23
+C3PO #30 - Reparaciones: 26
+C3PO #31 - Reparaciones: 40
+C3PO #32 - Reparaciones: 29
+BB8 #33 - Version: 7,8 - Vuelos: 90 - Reparaciones: 4
+R2D2 #34 - Version: 5 - Batallas: 15
+R2D2 #35 - Version: 9 - Batallas: 45
+C3PO #36 - Reparaciones: 15
+R2D2 #37 - Version: 5 - Batallas: 42
+R2D2 #38 - Version: 8 - Batallas: 81
+BB8 #39 - Version: 4,6 - Vuelos: 44 - Reparaciones: 26
+R2D2 #40 - Version: 4 - Batallas: 47
+BB8 #41 - Version: 8,5 - Vuelos: 37 - Reparaciones: 15
+C3PO #42 - Reparaciones: 39
+C3PO #43 - Reparaciones: 39
+R2D2 #44 - Version: 3 - Batallas: 10
+BB8 #45 - Version: 7,3 - Vuelos: 148 - Reparaciones: 14
+R2D2 #46 - Version: 8 - Batallas: 23
+BB8 #47 - Version: 5,3 - Vuelos: 72 - Reparaciones: 1
+R2D2 #48 - Version: 5 - Batallas: 51
+C3PO #49 - Reparaciones: 12
+C3PO #50 - Reparaciones: 48
+R2D2 #51 - Version: 9 - Batallas: 72
+C3PO #52 - Reparaciones: 18
+C3PO #53 - Reparaciones: 35
+C3PO #54 - Reparaciones: 7
+BB8 #55 - Version: 6,5 - Vuelos: 57 - Reparaciones: 5
+BB8 #56 - Version: 5,5 - Vuelos: 43 - Reparaciones: 22
+C3PO #57 - Reparaciones: 44
+R2D2 #58 - Version: 1 - Batallas: 91
+R2D2 #59 - Version: 3 - Batallas: 76
+R2D2 #60 - Version: 9 - Batallas: 35
+BB8 #61 - Version: 8,1 - Vuelos: 133 - Reparaciones: 12
+C3PO #62 - Reparaciones: 18
+R2D2 #63 - Version: 5 - Batallas: 16
+C3PO #64 - Reparaciones: 17
+R2D2 #65 - Version: 8 - Batallas: 46
+C3PO #66 - Reparaciones: 39
+C3PO #67 - Reparaciones: 4
+R2D2 #68 - Version: 6 - Batallas: 34
+C3PO #69 - Reparaciones: 22
+R2D2 #70 - Version: 8 - Batallas: 39
+R2D2 #71 - Version: 6 - Batallas: 2
+BB8 #72 - Version: 2,6 - Vuelos: 157 - Reparaciones: 4
+C3PO #73 - Reparaciones: 29
+C3PO #74 - Reparaciones: 28
+BB8 #75 - Version: 5,9 - Vuelos: 163 - Reparaciones: 2
+BB8 #76 - Version: 3,6 - Vuelos: 159 - Reparaciones: 18
+R2D2 #77 - Version: 3 - Batallas: 31
+C3PO #78 - Reparaciones: 12
+BB8 #79 - Version: 4,0 - Vuelos: 43 - Reparaciones: 15
+C3PO #80 - Reparaciones: 4
+BB8 #81 - Version: 8,6 - Vuelos: 48 - Reparaciones: 7
+R2D2 #82 - Version: 1 - Batallas: 14
+BB8 #83 - Version: 4,0 - Vuelos: 92 - Reparaciones: 29
+R2D2 #84 - Version: 1 - Batallas: 72
+R2D2 #85 - Version: 9 - Batallas: 78
+BB8 #86 - Version: 8,3 - Vuelos: 160 - Reparaciones: 4
+R2D2 #87 - Version: 6 - Batallas: 2
+R2D2 #88 - Version: 8 - Batallas: 21
+C3PO #89 - Reparaciones: 6
+R2D2 #90 - Version: 5 - Batallas: 10
+
+=== TOTALES ===
+Total R2D2: 33
+Total C3PO: 39
+Total BB8: 18
+Total Batallas: 1658
+Total Reparaciones: 1179
+Total Vuelos: 1538
+Puntos totales: 19400
+
+=== Partida de alex1 ===
+Fecha: 2/4/2025 19:42:36
+Órdenes de producción:
+R2D2 #1 - Version: 3 - Batallas: 66
+BB8 #2 - Version: 7,6 - Vuelos: 42 - Reparaciones: 28
+BB8 #3 - Version: 6,1 - Vuelos: 167 - Reparaciones: 20
+C3PO #4 - Reparaciones: 31
+C3PO #5 - Reparaciones: 13
+C3PO #6 - Reparaciones: 16
+C3PO #7 - Reparaciones: 11
+R2D2 #8 - Version: 3 - Batallas: 86
+BB8 #9 - Version: 8,7 - Vuelos: 174 - Reparaciones: 16
+R2D2 #10 - Version: 2 - Batallas: 80
+R2D2 #11 - Version: 3 - Batallas: 9
+BB8 #12 - Version: 4,1 - Vuelos: 181 - Reparaciones: 16
+R2D2 #13 - Version: 5 - Batallas: 45
+R2D2 #14 - Version: 5 - Batallas: 28
+C3PO #15 - Reparaciones: 31
+C3PO #16 - Reparaciones: 41
+R2D2 #17 - Version: 1 - Batallas: 7
+C3PO #18 - Reparaciones: 10
+C3PO #19 - Reparaciones: 12
+R2D2 #20 - Version: 7 - Batallas: 72
+BB8 #21 - Version: 4,3 - Vuelos: 38 - Reparaciones: 6
+R2D2 #22 - Version: 4 - Batallas: 47
+C3PO #23 - Reparaciones: 43
+R2D2 #24 - Version: 5 - Batallas: 46
+R2D2 #25 - Version: 5 - Batallas: 12
+C3PO #26 - Reparaciones: 3
+R2D2 #27 - Version: 1 - Batallas: 83
+R2D2 #28 - Version: 8 - Batallas: 11
+BB8 #29 - Version: 1,3 - Vuelos: 58 - Reparaciones: 26
+C3PO #30 - Reparaciones: 25
+BB8 #31 - Version: 9,3 - Vuelos: 48 - Reparaciones: 5
+C3PO #32 - Reparaciones: 30
+C3PO #33 - Reparaciones: 4
+C3PO #34 - Reparaciones: 39
+BB8 #35 - Version: 9,2 - Vuelos: 139 - Reparaciones: 9
+R2D2 #36 - Version: 4 - Batallas: 46
+C3PO #37 - Reparaciones: 9
+C3PO #38 - Reparaciones: 11
+C3PO #39 - Reparaciones: 26
+BB8 #40 - Version: 1,6 - Vuelos: 101 - Reparaciones: 2
+C3PO #41 - Reparaciones: 41
+BB8 #42 - Version: 4,5 - Vuelos: 124 - Reparaciones: 12
+C3PO #43 - Reparaciones: 19
+R2D2 #44 - Version: 2 - Batallas: 97
+C3PO #45 - Reparaciones: 13
+BB8 #46 - Version: 7,7 - Vuelos: 65 - Reparaciones: 29
+R2D2 #47 - Version: 4 - Batallas: 36
+R2D2 #48 - Version: 2 - Batallas: 46
+R2D2 #49 - Version: 9 - Batallas: 14
+BB8 #50 - Version: 8,0 - Vuelos: 70 - Reparaciones: 12
+R2D2 #51 - Version: 1 - Batallas: 91
+C3PO #52 - Reparaciones: 49
+BB8 #53 - Version: 2,5 - Vuelos: 94 - Reparaciones: 7
+R2D2 #54 - Version: 4 - Batallas: 37
+C3PO #55 - Reparaciones: 35
+BB8 #56 - Version: 1,3 - Vuelos: 105 - Reparaciones: 6
+BB8 #57 - Version: 6,0 - Vuelos: 71 - Reparaciones: 2
+R2D2 #58 - Version: 5 - Batallas: 13
+R2D2 #59 - Version: 6 - Batallas: 53
+R2D2 #60 - Version: 8 - Batallas: 78
+BB8 #61 - Version: 9,9 - Vuelos: 22 - Reparaciones: 26
+R2D2 #62 - Version: 3 - Batallas: 38
+BB8 #63 - Version: 4,3 - Vuelos: 65 - Reparaciones: 26
+R2D2 #64 - Version: 3 - Batallas: 8
+BB8 #65 - Version: 6,8 - Vuelos: 10 - Reparaciones: 23
+C3PO #66 - Reparaciones: 40
+C3PO #67 - Reparaciones: 1
+BB8 #68 - Version: 9,2 - Vuelos: 123 - Reparaciones: 21
+BB8 #69 - Version: 6,7 - Vuelos: 167 - Reparaciones: 5
+R2D2 #70 - Version: 7 - Batallas: 16
+C3PO #71 - Reparaciones: 11
+C3PO #72 - Reparaciones: 33
+C3PO #73 - Reparaciones: 5
+R2D2 #74 - Version: 1 - Batallas: 83
+BB8 #75 - Version: 4,8 - Vuelos: 10 - Reparaciones: 28
+C3PO #76 - Reparaciones: 49
+BB8 #77 - Version: 7,3 - Vuelos: 69 - Reparaciones: 12
+R2D2 #78 - Version: 3 - Batallas: 41
+BB8 #79 - Version: 5,8 - Vuelos: 40 - Reparaciones: 27
+R2D2 #80 - Version: 3 - Batallas: 94
+R2D2 #81 - Version: 7 - Batallas: 63
+C3PO #82 - Reparaciones: 23
+BB8 #83 - Version: 2,9 - Vuelos: 172 - Reparaciones: 29
+BB8 #84 - Version: 8,0 - Vuelos: 192 - Reparaciones: 14
+R2D2 #85 - Version: 2 - Batallas: 57
+C3PO #86 - Reparaciones: 9
+R2D2 #87 - Version: 9 - Batallas: 83
+R2D2 #88 - Version: 8 - Batallas: 57
+C3PO #89 - Reparaciones: 30
+BB8 #90 - Version: 2,9 - Vuelos: 188 - Reparaciones: 21
+
+=== TOTALES ===
+Total R2D2: 33
+Total C3PO: 31
+Total BB8: 26
+Total Batallas: 1715
+Total Reparaciones: 1136
+Total Vuelos: 2744
+Puntos totales: 13600
+
+=== Partida de nilEspa;a ===
+Fecha: 2/4/2025 19:59:57
+Órdenes de producción:
+BB8 #1 - Version: 3,3 - Vuelos: 182 - Reparaciones: 14
+BB8 #2 - Version: 8,5 - Vuelos: 57 - Reparaciones: 15
+BB8 #3 - Version: 1,6 - Vuelos: 22 - Reparaciones: 15
+BB8 #4 - Version: 8,5 - Vuelos: 86 - Reparaciones: 8
+R2D2 #5 - Version: 4 - Batallas: 9
+C3PO #6 - Reparaciones: 48
+BB8 #7 - Version: 1,7 - Vuelos: 24 - Reparaciones: 9
+BB8 #8 - Version: 8,2 - Vuelos: 106 - Reparaciones: 15
+BB8 #9 - Version: 8,3 - Vuelos: 30 - Reparaciones: 6
+C3PO #10 - Reparaciones: 19
+BB8 #11 - Version: 2,8 - Vuelos: 70 - Reparaciones: 9
+R2D2 #12 - Version: 4 - Batallas: 94
+C3PO #13 - Reparaciones: 3
+R2D2 #14 - Version: 7 - Batallas: 9
+BB8 #15 - Version: 9,3 - Vuelos: 88 - Reparaciones: 13
+C3PO #16 - Reparaciones: 31
+BB8 #17 - Version: 2,0 - Vuelos: 170 - Reparaciones: 16
+BB8 #18 - Version: 2,6 - Vuelos: 49 - Reparaciones: 29
+R2D2 #19 - Version: 5 - Batallas: 17
+R2D2 #20 - Version: 5 - Batallas: 60
+BB8 #21 - Version: 1,8 - Vuelos: 39 - Reparaciones: 17
+R2D2 #22 - Version: 4 - Batallas: 63
+C3PO #23 - Reparaciones: 48
+R2D2 #24 - Version: 5 - Batallas: 53
+C3PO #25 - Reparaciones: 31
+BB8 #26 - Version: 8,2 - Vuelos: 166 - Reparaciones: 26
+R2D2 #27 - Version: 5 - Batallas: 69
+BB8 #28 - Version: 8,4 - Vuelos: 111 - Reparaciones: 6
+R2D2 #29 - Version: 4 - Batallas: 41
+C3PO #30 - Reparaciones: 29
+BB8 #31 - Version: 6,3 - Vuelos: 144 - Reparaciones: 20
+R2D2 #32 - Version: 6 - Batallas: 43
+BB8 #33 - Version: 3,8 - Vuelos: 138 - Reparaciones: 15
+R2D2 #34 - Version: 1 - Batallas: 94
+R2D2 #35 - Version: 2 - Batallas: 1
+R2D2 #36 - Version: 8 - Batallas: 82
+R2D2 #37 - Version: 1 - Batallas: 4
+BB8 #38 - Version: 3,9 - Vuelos: 108 - Reparaciones: 21
+BB8 #39 - Version: 8,9 - Vuelos: 105 - Reparaciones: 6
+R2D2 #40 - Version: 7 - Batallas: 44
+C3PO #41 - Reparaciones: 15
+BB8 #42 - Version: 2,1 - Vuelos: 166 - Reparaciones: 2
+R2D2 #43 - Version: 9 - Batallas: 70
+BB8 #44 - Version: 3,7 - Vuelos: 26 - Reparaciones: 19
+C3PO #45 - Reparaciones: 33
+R2D2 #46 - Version: 4 - Batallas: 96
+C3PO #47 - Reparaciones: 11
+C3PO #48 - Reparaciones: 34
+R2D2 #49 - Version: 8 - Batallas: 42
+C3PO #50 - Reparaciones: 18
+C3PO #51 - Reparaciones: 49
+R2D2 #52 - Version: 3 - Batallas: 95
+C3PO #53 - Reparaciones: 43
+BB8 #54 - Version: 4,7 - Vuelos: 168 - Reparaciones: 15
+C3PO #55 - Reparaciones: 26
+BB8 #56 - Version: 5,6 - Vuelos: 85 - Reparaciones: 16
+C3PO #57 - Reparaciones: 21
+R2D2 #58 - Version: 3 - Batallas: 57
+C3PO #59 - Reparaciones: 20
+C3PO #60 - Reparaciones: 19
+BB8 #61 - Version: 7,0 - Vuelos: 174 - Reparaciones: 8
+BB8 #62 - Version: 3,3 - Vuelos: 56 - Reparaciones: 11
+BB8 #63 - Version: 4,0 - Vuelos: 26 - Reparaciones: 12
+BB8 #64 - Version: 6,4 - Vuelos: 134 - Reparaciones: 2
+C3PO #65 - Reparaciones: 44
+BB8 #66 - Version: 8,9 - Vuelos: 66 - Reparaciones: 21
+R2D2 #67 - Version: 8 - Batallas: 33
+BB8 #68 - Version: 1,1 - Vuelos: 99 - Reparaciones: 4
+BB8 #69 - Version: 8,2 - Vuelos: 192 - Reparaciones: 12
+R2D2 #70 - Version: 4 - Batallas: 25
+R2D2 #71 - Version: 7 - Batallas: 83
+BB8 #72 - Version: 1,4 - Vuelos: 56 - Reparaciones: 7
+R2D2 #73 - Version: 1 - Batallas: 45
+BB8 #74 - Version: 4,7 - Vuelos: 14 - Reparaciones: 21
+R2D2 #75 - Version: 2 - Batallas: 19
+BB8 #76 - Version: 5,5 - Vuelos: 54 - Reparaciones: 9
+BB8 #77 - Version: 5,4 - Vuelos: 190 - Reparaciones: 25
+C3PO #78 - Reparaciones: 18
+R2D2 #79 - Version: 9 - Batallas: 68
+C3PO #80 - Reparaciones: 11
+BB8 #81 - Version: 9,4 - Vuelos: 83 - Reparaciones: 28
+BB8 #82 - Version: 1,6 - Vuelos: 182 - Reparaciones: 24
+R2D2 #83 - Version: 7 - Batallas: 18
+R2D2 #84 - Version: 9 - Batallas: 86
+R2D2 #85 - Version: 5 - Batallas: 35
+BB8 #86 - Version: 7,5 - Vuelos: 16 - Reparaciones: 14
+R2D2 #87 - Version: 9 - Batallas: 85
+R2D2 #88 - Version: 9 - Batallas: 39
+R2D2 #89 - Version: 7 - Batallas: 32
+R2D2 #90 - Version: 9 - Batallas: 24
+
+=== TOTALES ===
+Total R2D2: 33
+Total C3PO: 21
+Total BB8: 36
+Total Batallas: 1796
+Total Reparaciones: 1073
+Total Vuelos: 3406
+Puntos totales: 16200
+
+=== Partida de kristopher ===
+Fecha: 2/4/2025 20:14:25
+Órdenes de producción:
+C3PO #1 - Reparaciones: 6
+C3PO #2 - Reparaciones: 17
+C3PO #3 - Reparaciones: 8
+BB8 #4 - Version: 4,7 - Vuelos: 182 - Reparaciones: 19
+C3PO #5 - Reparaciones: 8
+R2D2 #6 - Version: 2 - Batallas: 69
+C3PO #7 - Reparaciones: 35
+R2D2 #8 - Version: 2 - Batallas: 55
+R2D2 #9 - Version: 8 - Batallas: 50
+R2D2 #10 - Version: 8 - Batallas: 68
+C3PO #11 - Reparaciones: 26
+BB8 #12 - Version: 2,8 - Vuelos: 13 - Reparaciones: 28
+R2D2 #13 - Version: 3 - Batallas: 72
+BB8 #14 - Version: 9,8 - Vuelos: 61 - Reparaciones: 16
+C3PO #15 - Reparaciones: 35
+BB8 #16 - Version: 9,0 - Vuelos: 158 - Reparaciones: 18
+R2D2 #17 - Version: 1 - Batallas: 91
+C3PO #18 - Reparaciones: 1
+R2D2 #19 - Version: 3 - Batallas: 14
+BB8 #20 - Version: 1,6 - Vuelos: 121 - Reparaciones: 22
+C3PO #21 - Reparaciones: 43
+BB8 #22 - Version: 5,4 - Vuelos: 157 - Reparaciones: 7
+C3PO #23 - Reparaciones: 29
+BB8 #24 - Version: 1,5 - Vuelos: 156 - Reparaciones: 19
+C3PO #25 - Reparaciones: 33
+R2D2 #26 - Version: 5 - Batallas: 75
+BB8 #27 - Version: 5,7 - Vuelos: 125 - Reparaciones: 15
+C3PO #28 - Reparaciones: 1
+BB8 #29 - Version: 4,8 - Vuelos: 50 - Reparaciones: 29
+C3PO #30 - Reparaciones: 8
+BB8 #31 - Version: 3,7 - Vuelos: 38 - Reparaciones: 27
+R2D2 #32 - Version: 3 - Batallas: 5
+C3PO #33 - Reparaciones: 46
+BB8 #34 - Version: 9,8 - Vuelos: 10 - Reparaciones: 8
+BB8 #35 - Version: 10,0 - Vuelos: 163 - Reparaciones: 13
+BB8 #36 - Version: 6,6 - Vuelos: 24 - Reparaciones: 2
+BB8 #37 - Version: 8,2 - Vuelos: 64 - Reparaciones: 22
+R2D2 #38 - Version: 9 - Batallas: 5
+R2D2 #39 - Version: 9 - Batallas: 84
+R2D2 #40 - Version: 9 - Batallas: 27
+BB8 #41 - Version: 4,0 - Vuelos: 58 - Reparaciones: 12
+BB8 #42 - Version: 7,7 - Vuelos: 70 - Reparaciones: 23
+BB8 #43 - Version: 5,1 - Vuelos: 195 - Reparaciones: 8
+R2D2 #44 - Version: 2 - Batallas: 29
+BB8 #45 - Version: 7,9 - Vuelos: 171 - Reparaciones: 28
+BB8 #46 - Version: 4,2 - Vuelos: 64 - Reparaciones: 29
+C3PO #47 - Reparaciones: 26
+C3PO #48 - Reparaciones: 48
+BB8 #49 - Version: 3,2 - Vuelos: 194 - Reparaciones: 9
+BB8 #50 - Version: 8,5 - Vuelos: 22 - Reparaciones: 6
+R2D2 #51 - Version: 2 - Batallas: 58
+R2D2 #52 - Version: 2 - Batallas: 9
+BB8 #53 - Version: 3,6 - Vuelos: 196 - Reparaciones: 25
+R2D2 #54 - Version: 3 - Batallas: 43
+C3PO #55 - Reparaciones: 25
+BB8 #56 - Version: 2,4 - Vuelos: 76 - Reparaciones: 18
+BB8 #57 - Version: 8,6 - Vuelos: 112 - Reparaciones: 1
+BB8 #58 - Version: 6,6 - Vuelos: 37 - Reparaciones: 7
+BB8 #59 - Version: 5,2 - Vuelos: 114 - Reparaciones: 5
+C3PO #60 - Reparaciones: 40
+C3PO #61 - Reparaciones: 16
+BB8 #62 - Version: 4,7 - Vuelos: 176 - Reparaciones: 1
+C3PO #63 - Reparaciones: 3
+BB8 #64 - Version: 9,4 - Vuelos: 51 - Reparaciones: 3
+BB8 #65 - Version: 9,7 - Vuelos: 193 - Reparaciones: 16
+BB8 #66 - Version: 6,4 - Vuelos: 107 - Reparaciones: 25
+C3PO #67 - Reparaciones: 33
+C3PO #68 - Reparaciones: 22
+R2D2 #69 - Version: 9 - Batallas: 64
+BB8 #70 - Version: 9,4 - Vuelos: 13 - Reparaciones: 26
+R2D2 #71 - Version: 3 - Batallas: 53
+C3PO #72 - Reparaciones: 12
+C3PO #73 - Reparaciones: 11
+C3PO #74 - Reparaciones: 16
+C3PO #75 - Reparaciones: 1
+BB8 #76 - Version: 1,1 - Vuelos: 18 - Reparaciones: 15
+R2D2 #77 - Version: 4 - Batallas: 10
+R2D2 #78 - Version: 7 - Batallas: 81
+BB8 #79 - Version: 3,1 - Vuelos: 148 - Reparaciones: 17
+R2D2 #80 - Version: 9 - Batallas: 67
+BB8 #81 - Version: 3,9 - Vuelos: 112 - Reparaciones: 1
+R2D2 #82 - Version: 4 - Batallas: 98
+C3PO #83 - Reparaciones: 13
+BB8 #84 - Version: 1,8 - Vuelos: 111 - Reparaciones: 1
+R2D2 #85 - Version: 7 - Batallas: 43
+R2D2 #86 - Version: 3 - Batallas: 66
+C3PO #87 - Reparaciones: 47
+BB8 #88 - Version: 8,8 - Vuelos: 98 - Reparaciones: 10
+R2D2 #89 - Version: 9 - Batallas: 76
+R2D2 #90 - Version: 4 - Batallas: 92
+
+=== TOTALES ===
+Total R2D2: 26
+Total C3PO: 28
+Total BB8: 36
+Total Batallas: 1359
+Total Reparaciones: 1356
+Total Vuelos: 3321
+Puntos totales: 14600
+
+=== Partida de carlo ===
+Fecha: 2/4/2025 21:40:19
+Órdenes de producción:
+R2D2 #1 - Version: 1 - Batallas: 12
+R2D2 #2 - Version: 9 - Batallas: 49
+BB8 #3 - Version: 1,7 - Vuelos: 64 - Reparaciones: 8
+C3PO #4 - Reparaciones: 16
+C3PO #5 - Reparaciones: 24
+R2D2 #6 - Version: 8 - Batallas: 98
+C3PO #7 - Reparaciones: 16
+BB8 #8 - Version: 7,5 - Vuelos: 54 - Reparaciones: 9
+R2D2 #9 - Version: 1 - Batallas: 55
+
+=== TOTALES ===
+Total R2D2: 4
+Total C3PO: 3
+Total BB8: 2
+Total Batallas: 161
+Total Reparaciones: 89
+Total Vuelos: 304
+Puntos totales: 1500
+
+=== Partida de carlo2 ===
+Fecha: 2/4/2025 21:41:32
+Órdenes de producción:
+R2D2 #1 - Version: 4 - Batallas: 99
+BB8 #2 - Version: 7,1 - Vuelos: 80 - Reparaciones: 2
+C3PO #3 - Reparaciones: 1
+C3PO #4 - Reparaciones: 7
+BB8 #5 - Version: 8,9 - Vuelos: 63 - Reparaciones: 6
+C3PO #6 - Reparaciones: 16
+BB8 #7 - Version: 7,8 - Vuelos: 131 - Reparaciones: 14
+BB8 #8 - Version: 8,1 - Vuelos: 83 - Reparaciones: 14
+R2D2 #9 - Version: 9 - Batallas: 81
+
+=== TOTALES ===
+Total R2D2: 2
+Total C3PO: 3
+Total BB8: 4
+Total Batallas: 75
+Total Reparaciones: 97
+Total Vuelos: 525
+Puntos totales: 1500
+
+=== Partida de carlo ===
+Fecha: 2/4/2025 21:48:14
+Órdenes de producción:
+R2D2 #1 - Version: 1 - Batallas: 45
+BB8 #2 - Version: 3,6 - Vuelos: 169 - Reparaciones: 10
+R2D2 #3 - Version: 5 - Batallas: 37
+C3PO #4 - Reparaciones: 18
+BB8 #5 - Version: 7,3 - Vuelos: 199 - Reparaciones: 9
+BB8 #6 - Version: 3,4 - Vuelos: 194 - Reparaciones: 3
+BB8 #7 - Version: 2,1 - Vuelos: 174 - Reparaciones: 7
+BB8 #8 - Version: 3,7 - Vuelos: 19 - Reparaciones: 19
+BB8 #9 - Version: 9,0 - Vuelos: 56 - Reparaciones: 9
+
+=== TOTALES ===
+Total R2D2: 2
+Total C3PO: 1
+Total BB8: 6
+Total Batallas: 74
+Total Reparaciones: 121
+Total Vuelos: 572
+Puntos totales: 1100
+
+=== Partida de carlo ===
+Fecha: 2/4/2025 21:49:12
+Órdenes de producción:
+BB8 #1 - Version: 1,3 - Vuelos: 178 - Reparaciones: 17
+C3PO #2 - Reparaciones: 33
+R2D2 #3 - Version: 7 - Batallas: 37
+BB8 #4 - Version: 4,2 - Vuelos: 48 - Reparaciones: 23
+R2D2 #5 - Version: 4 - Batallas: 36
+C3PO #6 - Reparaciones: 33
+R2D2 #7 - Version: 4 - Batallas: 20
+BB8 #8 - Version: 5,3 - Vuelos: 138 - Reparaciones: 9
+R2D2 #9 - Version: 8 - Batallas: 13
+R2D2 #10 - Version: 6 - Batallas: 49
+R2D2 #11 - Version: 5 - Batallas: 31
+C3PO #12 - Reparaciones: 40
+BB8 #13 - Version: 5,0 - Vuelos: 95 - Reparaciones: 21
+R2D2 #14 - Version: 8 - Batallas: 75
+BB8 #15 - Version: 6,7 - Vuelos: 87 - Reparaciones: 9
+C3PO #16 - Reparaciones: 26
+C3PO #17 - Reparaciones: 40
+R2D2 #18 - Version: 1 - Batallas: 39
+BB8 #19 - Version: 4,7 - Vuelos: 9 - Reparaciones: 17
+C3PO #20 - Reparaciones: 37
+C3PO #21 - Reparaciones: 36
+BB8 #22 - Version: 4,2 - Vuelos: 180 - Reparaciones: 12
+C3PO #23 - Reparaciones: 41
+C3PO #24 - Reparaciones: 17
+C3PO #25 - Reparaciones: 39
+R2D2 #26 - Version: 6 - Batallas: 96
+C3PO #27 - Reparaciones: 35
+
+=== TOTALES ===
+Total R2D2: 9
+Total C3PO: 11
+Total BB8: 7
+Total Batallas: 373
+Total Reparaciones: 355
+Total Vuelos: 645
+Puntos totales: 5800
+
+=== Partida de carlo ===
+Fecha: 2/4/2025 22:24:19
+Órdenes de producción:
+R2D2 #1 - Version: 9 - Batallas: 71
+R2D2 #2 - Version: 4 - Batallas: 25
+BB8 #3 - Version: 6,2 - Vuelos: 5 - Reparaciones: 15
+C3PO #4 - Reparaciones: 22
+R2D2 #5 - Version: 4 - Batallas: 31
+C3PO #6 - Reparaciones: 45
+BB8 #7 - Version: 9,0 - Vuelos: 138 - Reparaciones: 7
+BB8 #8 - Version: 9,7 - Vuelos: 1 - Reparaciones: 15
+BB8 #9 - Version: 6,4 - Vuelos: 191 - Reparaciones: 18
+
+=== TOTALES ===
+Total R2D2: 3
+Total C3PO: 2
+Total BB8: 4
+Total Batallas: 101
+Total Reparaciones: 149
+Total Vuelos: 188
+Puntos totales: 2600
+
+=== Partida de carlo ===
+Fecha: 2/4/2025 22:28:53
+Órdenes de producción:
+C3PO #1 - Reparaciones: 48
+C3PO #2 - Reparaciones: 29
+R2D2 #3 - Version: 7 - Batallas: 75
+C3PO #4 - Reparaciones: 22
+R2D2 #5 - Version: 1 - Batallas: 82
+C3PO #6 - Reparaciones: 38
+BB8 #7 - Version: 7,4 - Vuelos: 126 - Reparaciones: 24
+BB8 #8 - Version: 9,6 - Vuelos: 168 - Reparaciones: 5
+R2D2 #9 - Version: 5 - Batallas: 32
+R2D2 #10 - Version: 5 - Batallas: 16
+R2D2 #11 - Version: 6 - Batallas: 44
+R2D2 #12 - Version: 9 - Batallas: 12
+C3PO #13 - Reparaciones: 22
+R2D2 #14 - Version: 2 - Batallas: 78
+R2D2 #15 - Version: 5 - Batallas: 67
+C3PO #16 - Reparaciones: 34
+C3PO #17 - Reparaciones: 46
+BB8 #18 - Version: 5,2 - Vuelos: 188 - Reparaciones: 4
+
+=== TOTALES ===
+Total R2D2: 8
+Total C3PO: 7
+Total BB8: 3
+Total Batallas: 356
+Total Reparaciones: 166
+Total Vuelos: 182
+Puntos totales: 4500
+
+=== Partida de carlofin ===
+Fecha: 2/4/2025 22:40:47
+Órdenes de producción:
+BB8 #1 - Version: 6,1 - Vuelos: 97 - Reparaciones: 17
+R2D2 #2 - Version: 9 - Batallas: 48
+C3PO #3 - Reparaciones: 41
+BB8 #4 - Version: 3,7 - Vuelos: 24 - Reparaciones: 3
+R2D2 #5 - Version: 9 - Batallas: 66
+R2D2 #6 - Version: 5 - Batallas: 10
+R2D2 #7 - Version: 4 - Batallas: 39
+R2D2 #8 - Version: 4 - Batallas: 27
+BB8 #9 - Version: 8,5 - Vuelos: 2 - Reparaciones: 20
+R2D2 #10 - Version: 7 - Batallas: 6
+C3PO #11 - Reparaciones: 33
+R2D2 #12 - Version: 6 - Batallas: 42
+BB8 #13 - Version: 1,6 - Vuelos: 187 - Reparaciones: 19
+BB8 #14 - Version: 5,1 - Vuelos: 32 - Reparaciones: 2
+C3PO #15 - Reparaciones: 6
+C3PO #16 - Reparaciones: 45
+C3PO #17 - Reparaciones: 47
+BB8 #18 - Version: 2,3 - Vuelos: 30 - Reparaciones: 16
+C3PO #19 - Reparaciones: 46
+BB8 #20 - Version: 9,1 - Vuelos: 22 - Reparaciones: 5
+R2D2 #21 - Version: 9 - Batallas: 83
+BB8 #22 - Version: 9,7 - Vuelos: 28 - Reparaciones: 22
+C3PO #23 - Reparaciones: 46
+R2D2 #24 - Version: 6 - Batallas: 20
+BB8 #25 - Version: 2,9 - Vuelos: 2 - Reparaciones: 11
+R2D2 #26 - Version: 1 - Batallas: 66
+C3PO #27 - Reparaciones: 15
+BB8 #28 - Version: 6,0 - Vuelos: 155 - Reparaciones: 19
+R2D2 #29 - Version: 8 - Batallas: 28
+BB8 #30 - Version: 4,0 - Vuelos: 30 - Reparaciones: 20
+R2D2 #31 - Version: 8 - Batallas: 58
+BB8 #32 - Version: 4,8 - Vuelos: 32 - Reparaciones: 11
+C3PO #33 - Reparaciones: 9
+C3PO #34 - Reparaciones: 16
+R2D2 #35 - Version: 1 - Batallas: 67
+BB8 #36 - Version: 1,7 - Vuelos: 163 - Reparaciones: 12
+R2D2 #37 - Version: 1 - Batallas: 88
+C3PO #38 - Reparaciones: 2
+R2D2 #39 - Version: 4 - Batallas: 79
+R2D2 #40 - Version: 8 - Batallas: 54
+C3PO #41 - Reparaciones: 34
+C3PO #42 - Reparaciones: 21
+C3PO #43 - Reparaciones: 43
+C3PO #44 - Reparaciones: 27
+C3PO #45 - Reparaciones: 14
+R2D2 #46 - Version: 9 - Batallas: 97
+R2D2 #47 - Version: 3 - Batallas: 25
+R2D2 #48 - Version: 2 - Batallas: 34
+R2D2 #49 - Version: 8 - Batallas: 69
+BB8 #50 - Version: 9,0 - Vuelos: 143 - Reparaciones: 23
+BB8 #51 - Version: 5,7 - Vuelos: 7 - Reparaciones: 29
+BB8 #52 - Version: 5,8 - Vuelos: 126 - Reparaciones: 11
+C3PO #53 - Reparaciones: 42
+C3PO #54 - Reparaciones: 33
+R2D2 #55 - Version: 4 - Batallas: 59
+C3PO #56 - Reparaciones: 40
+BB8 #57 - Version: 9,9 - Vuelos: 84 - Reparaciones: 4
+BB8 #58 - Version: 5,7 - Vuelos: 186 - Reparaciones: 6
+C3PO #59 - Reparaciones: 3
+BB8 #60 - Version: 1,1 - Vuelos: 27 - Reparaciones: 29
+R2D2 #61 - Version: 4 - Batallas: 6
+BB8 #62 - Version: 9,0 - Vuelos: 56 - Reparaciones: 8
+R2D2 #63 - Version: 8 - Batallas: 6
+C3PO #64 - Reparaciones: 2
+R2D2 #65 - Version: 8 - Batallas: 46
+R2D2 #66 - Version: 9 - Batallas: 77
+C3PO #67 - Reparaciones: 24
+R2D2 #68 - Version: 7 - Batallas: 27
+C3PO #69 - Reparaciones: 48
+R2D2 #70 - Version: 9 - Batallas: 53
+R2D2 #71 - Version: 3 - Batallas: 57
+R2D2 #72 - Version: 1 - Batallas: 58
+R2D2 #73 - Version: 9 - Batallas: 96
+C3PO #74 - Reparaciones: 6
+R2D2 #75 - Version: 5 - Batallas: 55
+BB8 #76 - Version: 8,8 - Vuelos: 199 - Reparaciones: 18
+BB8 #77 - Version: 6,1 - Vuelos: 176 - Reparaciones: 13
+R2D2 #78 - Version: 7 - Batallas: 38
+C3PO #79 - Reparaciones: 7
+R2D2 #80 - Version: 4 - Batallas: 35
+BB8 #81 - Version: 4,0 - Vuelos: 153 - Reparaciones: 4
+R2D2 #82 - Version: 6 - Batallas: 86
+C3PO #83 - Reparaciones: 28
+R2D2 #84 - Version: 2 - Batallas: 97
+C3PO #85 - Reparaciones: 8
+C3PO #86 - Reparaciones: 41
+BB8 #87 - Version: 7,2 - Vuelos: 190 - Reparaciones: 28
+R2D2 #88 - Version: 2 - Batallas: 57
+R2D2 #89 - Version: 6 - Batallas: 45
+BB8 #90 - Version: 8,1 - Vuelos: 28 - Reparaciones: 3
+
+=== TOTALES ===
+Total R2D2: 37
+Total C3PO: 28
+Total BB8: 25
+Total Batallas: 1841
+Total Reparaciones: 1124
+Total Vuelos: 2556
+Puntos totales: 14200
+
+=== Partida de rafaww ===
+Fecha: 2/4/2025 23:28:11
+Órdenes de producción:
+R2D2 #1 - Version: 5 - Batallas: 72
+C3PO #2 - Reparaciones: 29
+R2D2 #3 - Version: 5 - Batallas: 69
+R2D2 #4 - Version: 2 - Batallas: 49
+R2D2 #5 - Version: 8 - Batallas: 85
+BB8 #6 - Version: 9,6 - Vuelos: 73 - Reparaciones: 8
+BB8 #7 - Version: 8,3 - Vuelos: 118 - Reparaciones: 7
+BB8 #8 - Version: 9,7 - Vuelos: 64 - Reparaciones: 27
+C3PO #9 - Reparaciones: 11
+
+=== TOTALES ===
+Total R2D2: 4
+Total C3PO: 2
+Total BB8: 3
+Total Batallas: 153
+Total Reparaciones: 66
+Total Vuelos: 297
+Puntos totales: 2500
+
+=== Partida de rafaaaaas ===
+Fecha: 2/4/2025 23:42:22
+Órdenes de producción:
+R2D2 #1 - Version: 7 - Batallas: 59
+R2D2 #2 - Version: 9 - Batallas: 57
+C3PO #3 - Reparaciones: 22
+C3PO #4 - Reparaciones: 15
+BB8 #5 - Version: 7,1 - Vuelos: 175 - Reparaciones: 13
+C3PO #6 - Reparaciones: 5
+C3PO #7 - Reparaciones: 36
+C3PO #8 - Reparaciones: 38
+C3PO #9 - Reparaciones: 14
+R2D2 #10 - Version: 5 - Batallas: 8
+R2D2 #11 - Version: 4 - Batallas: 73
+C3PO #12 - Reparaciones: 5
+C3PO #13 - Reparaciones: 27
+C3PO #14 - Reparaciones: 9
+BB8 #15 - Version: 2,3 - Vuelos: 87 - Reparaciones: 24
+R2D2 #16 - Version: 2 - Batallas: 51
+R2D2 #17 - Version: 1 - Batallas: 20
+R2D2 #18 - Version: 6 - Batallas: 83
+C3PO #19 - Reparaciones: 5
+BB8 #20 - Version: 2,9 - Vuelos: 160 - Reparaciones: 3
+BB8 #21 - Version: 7,0 - Vuelos: 125 - Reparaciones: 13
+R2D2 #22 - Version: 3 - Batallas: 30
+R2D2 #23 - Version: 1 - Batallas: 77
+C3PO #24 - Reparaciones: 44
+R2D2 #25 - Version: 3 - Batallas: 95
+C3PO #26 - Reparaciones: 21
+C3PO #27 - Reparaciones: 23
+
+=== TOTALES ===
+Total R2D2: 10
+Total C3PO: 13
+Total BB8: 4
+Total Batallas: 544
+Total Reparaciones: 394
+Total Vuelos: 300
+Puntos totales: 6300
+
+=== Partida de rafasas ===
+Fecha: 2/4/2025 23:46:17
+Órdenes de producción:
+C3PO #1 - Reparaciones: 35
+C3PO #2 - Reparaciones: 47
+BB8 #3 - Version: 9,3 - Vuelos: 154 - Reparaciones: 12
+BB8 #4 - Version: 7,7 - Vuelos: 152 - Reparaciones: 10
+R2D2 #5 - Version: 7 - Batallas: 57
+C3PO #6 - Reparaciones: 17
+BB8 #7 - Version: 9,1 - Vuelos: 48 - Reparaciones: 25
+BB8 #8 - Version: 3,9 - Vuelos: 91 - Reparaciones: 27
+R2D2 #9 - Version: 3 - Batallas: 50
+R2D2 #10 - Version: 8 - Batallas: 66
+BB8 #11 - Version: 5,3 - Vuelos: 84 - Reparaciones: 11
+R2D2 #12 - Version: 8 - Batallas: 82
+C3PO #13 - Reparaciones: 48
+R2D2 #14 - Version: 4 - Batallas: 7
+BB8 #15 - Version: 4,1 - Vuelos: 149 - Reparaciones: 15
+C3PO #16 - Reparaciones: 7
+R2D2 #17 - Version: 8 - Batallas: 29
+BB8 #18 - Version: 5,6 - Vuelos: 100 - Reparaciones: 25
+
+=== TOTALES ===
+Total R2D2: 6
+Total C3PO: 5
+Total BB8: 7
+Total Batallas: 257
+Total Reparaciones: 227
+Total Vuelos: 777
+Puntos totales: 3000
+

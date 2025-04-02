@@ -1,0 +1,14 @@
+/Users/pro/c#slots/bin/Debug/net9.0/c#slots
+/Users/pro/c#slots/bin/Debug/net9.0/c#slots.deps.json
+/Users/pro/c#slots/bin/Debug/net9.0/c#slots.runtimeconfig.json
+/Users/pro/c#slots/bin/Debug/net9.0/c#slots.dll
+/Users/pro/c#slots/bin/Debug/net9.0/c#slots.pdb
+/Users/pro/c#slots/obj/Debug/net9.0/c#slots.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pro/c#slots/obj/Debug/net9.0/c#slots.AssemblyInfoInputs.cache
+/Users/pro/c#slots/obj/Debug/net9.0/c#slots.AssemblyInfo.cs
+/Users/pro/c#slots/obj/Debug/net9.0/c#slots.csproj.CoreCompileInputs.cache
+/Users/pro/c#slots/obj/Debug/net9.0/c#slots.dll
+/Users/pro/c#slots/obj/Debug/net9.0/refint/c#slots.dll
+/Users/pro/c#slots/obj/Debug/net9.0/c#slots.pdb
+/Users/pro/c#slots/obj/Debug/net9.0/c#slots.genruntimeconfig.cache
+/Users/pro/c#slots/obj/Debug/net9.0/ref/c#slots.dll
