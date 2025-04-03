@@ -8,15 +8,13 @@ using System.Net.Http;
 class Program
 {
     public const string RobotEmoji = "🤖"; public const string RobotEmoji2 = "👾"; public const string RobotEmoji3 = "⚙️";public const string Warning = "⚠️"; public const string board = "📋"; public const string Scroll = "📜";public const string SlotM = "🎰";
-    public const string _1StPlaceMedal = "🥇";
-    public const string _2NdPlaceMedal = "🥈";
-    public const string _3RdPlaceMedal = "🥉";
+    public const string _1StPlaceMedal = "🥇";public const string _2NdPlaceMedal = "🥈";public const string _3RdPlaceMedal = "🥉";
     private static readonly Random random = new Random();
     private static async Task<int[]> GetRandomNumbers()
     {
         using (var client = new HttpClient())
         {
-            var response = await client.GetStringAsync("randomnumberapi.com/api/v1.0/random?min=1&max=3&count=9");
+            var response = await client.GetStringAsync("randomnumberapi.com/api/v1.0/random?min=1&max=4&count=3");
             return JsonSerializer.Deserialize<int[]>(response)!;
         }
     }
@@ -61,7 +59,7 @@ class Program
     static void MostrarTitulo()
     {
         Console.Clear();
-        // Console.BackgroundColor = ConsoleColor.DarkMagenta;
+        
         Console.ForegroundColor = ConsoleColor.DarkYellow;
         Console.WriteLine(@" ______    ______    _______   ______   _________  ______       ______   __       ______   _________  ______       
 /_____/\  /_____/\ /_______/\ /_____/\ /________/\/_____/\     /_____/\ /_/\     /_____/\ /________/\/_____/\      
@@ -125,7 +123,7 @@ class Program
         int lineasC3PO = 0;
         int lineasBB8 = 0;
         
-        // Verificar líneas horizontales
+        
         for (int fila = 0; fila < 3; fila++)
         {
             var linea = new[] { resultado[fila * 3], resultado[fila * 3 + 1], resultado[fila * 3 + 2] };
@@ -151,7 +149,7 @@ class Program
             }
         }
 
-        // Verificar diagonales
+        
         var diagonal1 = new[] { resultado[0], resultado[4], resultado[8] };
         var diagonal2 = new[] { resultado[2], resultado[4], resultado[6] };
 
@@ -191,20 +189,20 @@ class Program
             bonus += 5;
         }
 
-        // Verificar Double Jackpot
+        
         if (lineasR2D2 >= 2)
         {
-            bonus += 30; // Bonus extra por Double Jackpot
+            bonus += 30; 
             MostrarDoubleJackpot("R2D2");
         }
         else if (lineasC3PO >= 2)
         {
-            bonus += 24; // Bonus extra por Double Jackpot
+            bonus += 24; 
             MostrarDoubleJackpot("C3PO");
         }
         else if (lineasBB8 >= 2)
         {
-            bonus += 18; // Bonus extra por Double Jackpot
+            bonus += 18; 
             MostrarDoubleJackpot("BB8");
         }
         else if (hayJackpot)
@@ -310,20 +308,67 @@ class Program
         };
     }
 
-    static void MostrarMaquinaCompleta(string[] simbolosRodillos = null)
+    static void MostrarMaquinaCompleta(string[] simbolosRodillos = null!)
     {
         Console.Clear();
         Console.WriteLine("\n");
-        Console.WriteLine("      ╔══════════════════════════════════════════╗");
-        Console.WriteLine("      ║           MÁQUINA TRAGAPERRAS           ║");
-        Console.WriteLine("      ║              ROBOTS 3000                ║");
-        Console.WriteLine("      ║                                        ║");
-        Console.WriteLine("      ║  ╔══════════╦══════════╦══════════╗   ║");
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
         
-        // Área de rodillos (3x3)
+        
+        string[] emojisIzquierda = { "🍒", "🍋", "🍊", "🍇", "💎" };
+        string[] emojisDerecha = { "7️⃣", "🍀", "💰", "🎰", "🔔" };
+        
+        
+        Console.WriteLine("     ╔════════════════════════════════════╗");
+        
+        
+        Console.Write("     ║ ");
+        Console.Write($"{emojisIzquierda[0]} ");
+        Console.Write("     MÁQUINA TRAGAPERRAS     ");
+        Console.Write($"{emojisDerecha[0]} ");
+        Console.WriteLine(" ║");
+        
+        Console.Write("     ║ ");
+        Console.Write($"{emojisIzquierda[1]} ");
+        Console.Write("        ROBOTS 3000          ");
+        Console.Write($"{emojisDerecha[1]} ");
+        Console.WriteLine("║");
+        
+        Console.Write("     ║ ");
+        Console.Write($"{emojisIzquierda[2]} ");
+        Console.Write("                             ");
+        Console.Write($"{emojisDerecha[2]} ");
+        Console.WriteLine("║");
+        
+        
+        Console.Write("     ║ ");
+        Console.Write($"{emojisIzquierda[3]} ");
+        Console.Write("╔════════╦════════╦════════╗ ");
+        Console.Write($"{emojisDerecha[3]} ");
+        Console.WriteLine("║");
+        
+        
         for (int row = 0; row < 3; row++)
         {
-            Console.Write("      ║  ║");
+            if (row == 0)
+            {
+                Console.Write("     ║ ");
+                Console.Write($"{emojisIzquierda[0]} "); 
+                Console.Write("║");
+            }
+            else if (row == 2)
+            {
+                Console.Write("     ║ ");
+                Console.Write($"{emojisIzquierda[2]} "); 
+                Console.Write("║");
+            }
+            else
+            {
+                Console.Write("     ║ ");
+                Console.Write(row == 1 ? $"{emojisIzquierda[4]} " : "  ");
+                Console.Write("║");
+            }
+            
             for (int col = 0; col < 3; col++)
             {
                 int index = row * 3 + col;
@@ -335,57 +380,85 @@ class Program
                                            ConsoleColor.Cyan;
                     Console.Write($" {simbolo} ");
                     Console.ResetColor();
+                    Console.ForegroundColor = ConsoleColor.DarkYellow;
                 }
                 else
                 {
-                    Console.Write("        ");
+                    Console.Write("       ");
                 }
-                Console.Write(col < 2 ? "║" : "║");
+                Console.Write(" ║");
             }
-            Console.WriteLine("  ║");
-            if (row < 2) Console.WriteLine("      ║  ╠══════════╬══════════╬══════════╣  ║");
+            
+            if (row == 0)
+            {
+                Console.Write($" {emojisDerecha[0]}"); 
+                Console.WriteLine(" ║");
+            }
+            else if (row == 2)
+            {
+                Console.Write($" {emojisDerecha[2]}"); 
+                Console.WriteLine("║");
+            }
+            else
+            {
+                Console.Write(row == 1 ? $" {emojisDerecha[4]}" : "  ");
+                Console.WriteLine("║");
+            }
+            
+            if (row < 2)
+            {
+                Console.WriteLine("     ║    ╠════════╬════════╬════════╣    ║");
+            }
+            else
+            {
+                Console.Write("     ║    ");
+                 // Emoji izquierdo última fila
+                Console.Write("╚════════╩════════╩════════╝");
+                
+                Console.WriteLine("    ║");
+            }
         }
         
-        Console.WriteLine("      ║  ╚══════════╩══════════╩══════════╝  ║");
-        Console.WriteLine("      ║                                        ║");
-        Console.WriteLine("      ║     Presione ESPACIO para detener     ║");
-        Console.WriteLine("      ║                                        ║");
-        Console.WriteLine("      ╚══════════════════════════════════════════╝");
+        Console.WriteLine("     ║                                    ║");
+        Console.WriteLine("     ║     Presione ESPACIO para detener  ║");
+        Console.WriteLine("     ║                                    ║");
+        Console.WriteLine("     ╚════════════════════════════════════╝");
+        Console.ResetColor();
     }
 
     static async Task<string[]> RealizarTiradaConAnimacion()
     {
         var resultadoFinal = new string[9];
         bool detener = false;
-        int velocidad = 50; // Velocidad inicial de la animación
+        int velocidad = 50; 
         
-        // Configurar listener para tecla espacio
         Task.Run(() => {
             while (!detener) {
                 if (Console.KeyAvailable && Console.ReadKey(true).Key == ConsoleKey.Spacebar) {
                     detener = true;
                 }
-                Thread.Sleep(50);
+                Thread.Sleep(30);
             }
         });
 
-        // Animación inicial
         MostrarMaquinaCompleta();
         Console.SetCursorPosition(0, Console.CursorTop);
-        Console.WriteLine("      ¡Girando rodillos! Presiona ESPACIO para detener...");
         
-        // Obtener resultado final al inicio
         try {
             using var client = new HttpClient();
-            var response = await client.GetStringAsync("randomnumberapi.com/api/v1.0/random?min=1&max=3&count=9");
+            var response = await client.GetStringAsync("randomnumberapi.com/api/v1.0/random?min=1&max=4&count=3");
             var numeros = JsonSerializer.Deserialize<int[]>(response)!;
-            resultadoFinal = numeros.Select(n => simbolos[n - 1]).ToArray();
+            // Convertimos los 3 números en 9 para la matriz 3x3
+            resultadoFinal = new string[9];
+            for (int i = 0; i < 9; i++)
+            {
+                resultadoFinal[i] = simbolos[numeros[i % 3] - 1];
+            }
         }
         catch {
             resultadoFinal = Enumerable.Range(0, 9).Select(_ => simbolos[random.Next(0, 3)]).ToArray();
         }
 
-        // Animación de giro
         int frame = 0;
         while (!detener)
         {
@@ -399,48 +472,28 @@ class Program
             Thread.Sleep(velocidad);
             frame++;
             
-            // Aumentar gradualmente la velocidad
-            if (frame % 5 == 0 && velocidad < 200)
+            
+            if (frame % 5 == 0 && velocidad < 160)
             {
                 velocidad += 10;
             }
         }
 
-        // Mostrar resultado final con efecto de desaceleración
+        
         for (int i = 0; i < 5; i++)
         {
             MostrarMaquinaCompleta(resultadoFinal);
-            Thread.Sleep(200);
-            MostrarMaquinaCompleta(Enumerable.Range(0, 9).Select(_ => simbolos[random.Next(0, 3)]).ToArray());
             Thread.Sleep(100);
+            MostrarMaquinaCompleta(Enumerable.Range(0, 9).Select(_ => simbolos[random.Next(0, 3)]).ToArray());
+            Thread.Sleep(70);
         }
 
-        // Mostrar resultado final definitivo
+        
         MostrarMaquinaCompleta(resultadoFinal);
         return resultadoFinal;
     }
 
-    static void MostrarRodillosEnMaquina(string[] simbolosRodillos)
-    {
-        int[] posX = { 14, 25, 36 }; // Ajustadas las posiciones X
-        int[] posY = { 8, 10, 12 };  // Posiciones Y de las filas
-        
-        for (int row = 0; row < 3; row++)
-        {
-            for (int col = 0; col < 3; col++)
-            {
-                int index = row * 3 + col;
-                Console.SetCursorPosition(posX[col], posY[row]);
-                
-                string simbolo = simbolosRodillos[index];
-                Console.ForegroundColor = simbolo.Contains("R2D2") ? ConsoleColor.Red :
-                                       simbolo.Contains("C3PO") ? ConsoleColor.Magenta :
-                                       ConsoleColor.Cyan;
-                Console.Write($" {simbolo} ");
-                Console.ResetColor();
-            }
-        }
-    }
+    
 
     static async Task JugarPartida()
     {
@@ -456,28 +509,23 @@ class Program
         while (turnosRestantes > 0)
         {
             MostrarMaquinaCompleta();
-            Console.SetCursorPosition(0, 20);
-            Console.WriteLine($"Jugador: {nombreJugador}");
-            Console.WriteLine($"Turnos restantes: {turnosRestantes}");
-            Console.WriteLine($"Puntuación actual: {puntuacionTotal}");
-            Console.WriteLine("\n¡Iniciando nueva tirada! Presiona ESPACIO para detener...");
+            Console.WriteLine($"\n     Jugador: {nombreJugador}");
+            Console.WriteLine($"     Tirada actual: {11 - turnosRestantes} de 10");
+            Console.WriteLine($"     Tiradas restantes: {turnosRestantes}");
+            Console.WriteLine($"     Puntuación actual: {puntuacionTotal}");
             
-            // Realizar tirada con animación
+            Console.WriteLine("\n     ¡Iniciando nueva tirada! Presiona ESPACIO para detener...");
+            
             var resultado = await RealizarTiradaConAnimacion();
-            
-            // Mostrar resultados
-            Console.SetCursorPosition(0, 20);
-            Console.WriteLine(new string(' ', Console.WindowWidth));
-            Console.WriteLine(new string(' ', Console.WindowWidth));
-            Console.SetCursorPosition(0, 20);
             
             var bonus = CalcularBonus(resultado);
             int puntuacionTirada = bonus * 100;
             puntuacionTotal += puntuacionTirada;
             
-            Console.WriteLine($"¡Bonus: {bonus}x!");
-            Console.WriteLine($"Puntuación de la tirada: {puntuacionTirada}");
-            Console.WriteLine($"Puntuación total: {puntuacionTotal}");
+            Console.WriteLine($"\n     ¡Bonus: {bonus}x!");
+            Console.WriteLine($"     Puntuación de la tirada: {puntuacionTirada}");
+            Console.WriteLine($"     Puntuación total: {puntuacionTotal}");
+            Console.WriteLine($"     Tiradas restantes: {turnosRestantes - 1}");
             
             // Guardar robots
             var robots = CrearRobots(resultado);
@@ -487,12 +535,47 @@ class Program
             
             if (turnosRestantes > 0)
             {
-                Console.Write("\n¿Quieres continuar jugando? (S/N): ");
+                Console.Write("\n     ¿Quieres continuar jugando? (S/N): ");
                 if (Console.ReadLine()?.ToUpper() != "S") break;
+            }
+            else
+            {
+                MostrarMensajeFinal(puntuacionTotal);
             }
         }
         
         ordenProduccion.GuardarPuntuacion(puntuacionTotal);
+    }
+
+    static void MostrarMensajeFinal(int puntuacionTotal)
+    {
+        ConsoleColor[] colores = { ConsoleColor.Red, ConsoleColor.Yellow, ConsoleColor.Green, ConsoleColor.Cyan, ConsoleColor.Magenta };
+        string mensajeAscii = @"
+    ╔═══════════════════════════════════════════╗
+    ║         ¡FIN DE LA PARTIDA!               ║
+    ║                                           ║
+    ║      ¡GRACIAS POR JUGAR!                  ║
+    ║                                           ║
+    ║      Puntuación Final: " + $"{puntuacionTotal}".PadRight(16) + @"   ║
+    ║                                           ║
+    ║   Presiona una tecla para volver al menú  ║
+    ╚═══════════════════════════════════════════╝";
+
+        for (int i = 0; i < 8; i++)
+        {
+            Console.Clear();
+            Console.ForegroundColor = colores[i % colores.Length];
+            Console.WriteLine(mensajeAscii);
+            Thread.Sleep(300);
+            
+            if (i % 2 == 0)
+            {
+                Console.Clear();
+                Thread.Sleep(150);
+            }
+        }
+        Console.ResetColor();
+        Console.ReadKey(true);
     }
 
     static List<Robot> CrearRobots(string[] resultado)
@@ -559,27 +642,5 @@ class Program
         Thread.Sleep(500);
     }
     
-    static void DrawAnimatedReel(string[] symbols, int frame, int position, ConsoleColor color)
-    {
-        Console.ForegroundColor = color;
-        int index = (frame + position * 3) % symbols.Length;
-        Console.Write(symbols[index]);
-    }
-    
-    static void DrawRobot(int frame)
-    {
-        string[] robotFrames = new string[]
-        {
-            @"    /^\___/^\    ",
-            @"   /  |   |  \   ",
-            @"  /   |   |   \  ",
-            @" /    |   |    \ ",
-            @"|     |   |     |",
-            @" \    |   |    / ",
-            @"  \   |   |   /  ",
-            @"   \  |   |  /   ",
-            @"    \/___\/    "
-        };
-        Console.WriteLine(robotFrames[frame]);
-    }
+   
 }
