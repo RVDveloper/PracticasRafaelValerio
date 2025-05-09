@@ -29,17 +29,17 @@ var builder = WebApplication.CreateBuilder(args);
 // Swashbuckle
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen(); // Reemplaza AddOpenApi()
+builder.Services.AddSwaggerGen(); 
 builder.Services.AddDbContext<TodoContext>(options =>
 options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 
-// Middleware de Swagger
+// este Middleware es del Swagger marc
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI(); // Reemplaza MapOpenApi()
+    app.UseSwaggerUI(); 
 }
 
 app.UseHttpsRedirection();
